@@ -10,28 +10,37 @@ The year is 1723, in an unnamed winter settlement in what is now called the Yuko
 This is a game set up for 15-25 people.
 
 # Roles
-See the [master list of roles](/roles). Any role not appearing below will **NOT** be in the game. Please look over all of the roles that are or might be in play so that there are no surprises. 
+See the [master list of roles](/roles). Any role not appearing below will **NOT** be in the game. Please look over all of the roles that are or might be in play so that there are no surprises. This will be a role-heavy game.
 
 ## Village Roles
-* Seer
-* Priest
-* Villager
-* Bodyguard
-* Amateur Bodyguard
-* Oracle
-* Prince
-* Idiot
-* Witch
-* Hangman
-* Lamplighter
+* [Amateur Bodyguard](/roles#amateur-bodyguard)
+* [Bodyguard](/roles#bodyguard)
+* [Cupid](/roles#cupid)
+* [Diseased](/roles#diseased)
+* [Executioner](/roles#executioner)
+* [Idiot](/roles#idiot)
+* [Jailkeeper](/roles#jailkeeper)
+* [Lamplighter](/roles#lamplighter)
+* [Lycan](/roles#lycan)
+* [Oracle](/roles#oracle)
+* [Priest](/roles#priest)
+* [Regent](/roles#regent)
+* [Seer](/roles#seer)
+* [Tough Villager](/roles#tough-villager)
+* [Traveler](/roles#traveler)
+* [Troublemaker](/roles#troublemaker)
+* [Vigilante](/roles#vigilante)
+* [Villager](/roles#villager)
+* [Witch](/roles#witch)
 
 ## Wolf Roles
-* Wolf Cub
-* Werewolf
-* Harlot
-* Saboteur
-* Sorceror
-* Spy
+* [Alpha Wolf](/roles#alpha-wolf)
+* [Harlot](/roles#harlot)
+* [Saboteur](/roles#saboteur)
+* [Sorcerer](/roles#sorcerer)
+* [Spy](/roles#spy)
+* [Wolf Cub](/roles#wolf-cub)
+* [Werewolf](/roles#werewolf)
 
 ## Game Parameters
 Number of pack hunters 
