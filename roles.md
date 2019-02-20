@@ -380,7 +380,7 @@ In addition, once per game during the day, you may choose to learn the role of y
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen by the [Seer](#seer) as a wolf in an initial scanning. Subsequent scans will correctly reveal that you are in fact NOT a wolf. You are not aware of your real status - you thinks you're just another regular [Villager](#villager).
+You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen by the [Seer](#seer) as a wolf in an initial scanning. Subsequent scans will correctly reveal that you are in fact NOT a wolf.
 
 ## Magician
 * **TEAM:** Village
