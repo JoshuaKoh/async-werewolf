@@ -26,6 +26,7 @@ See the [master list of roles](/roles). Any role not appearing below will **NOT*
 * [Priest](/roles#priest)
 * [Regent](/roles#regent)
 * [Seer](/roles#seer)
+* [Shadow](/roles#shadow)
 * [Tough Villager](/roles#tough-villager)
 * [Traveler](/roles#traveler)
 * [Troublemaker](/roles#troublemaker)
