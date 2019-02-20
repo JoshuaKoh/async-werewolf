@@ -35,6 +35,7 @@ See the [master list of roles](/roles). Any role not appearing below will **NOT*
 
 ## Wolf Roles
 * [Alpha Wolf](/roles#alpha-wolf)
+* [Executioner Wolf](/roles#executioner-wolf)
 * [Harlot](/roles#harlot)
 * [Saboteur](/roles#saboteur)
 * [Sorcerer](/roles#sorcerer)
