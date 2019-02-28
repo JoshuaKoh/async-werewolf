@@ -15,9 +15,12 @@ See the [master list of roles](/roles). Any role not appearing below will **NOT*
 ## Village Roles
 * [Amateur Bodyguard](/roles#amateur-bodyguard)
 * [Bodyguard](/roles#bodyguard)
+* [Coward](/roles#coward)
 * [Cupid](/roles#cupid)
 * [Diseased](/roles#diseased)
+* [Drunk](/roles#drunk)
 * [Executioner](/roles#executioner)
+* [Gossip](/roles#gossip)
 * [Idiot](/roles#idiot)
 * [Jailkeeper](/roles#jailkeeper)
 * [Lamplighter](/roles#lamplighter)
