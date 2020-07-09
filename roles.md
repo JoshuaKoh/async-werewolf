@@ -566,7 +566,7 @@ At the end of each night, you are told how many [Werewolves](#werewolf) OR [Vamp
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-Each night you learn the role of a random living player, but not whose role it is. You only learn roles with significant impact on the game (ie, not [Villager](#villager)).
+Each night you learn the role of a random living player, but not whose role it is. You only learn roles with significant impact on the game (ie, not [Villager](#villager)). Because all actions at night happen simultaneously, you will not be told the role of a player who is killed that night. 
 In a game with a distributed role pool ( see [moderator notes](/moderator-notes.md#distributed-role-pool) ) the psychic has an additional night 0 ability. 
 Choose 1, either: Learn two additional roles of random living players (so you will begin the game knowing three roles), OR Learn the identity of the role you discovered in night 0. 
 
@@ -766,6 +766,11 @@ You are just an ordinary [Villager](#villager) until you die. Once you are kille
 You begin the game as a standard [Villager](#villager), with no special powers. This all changes, however, if you're killed by wolves. Your death is reported normally, but the following night, the Moderator will inform you that you have risen from the dead as a Zombie and must pick a player to strangle as revenge for being killed. You remain allied with the village. This process is repeated for the following two nights, for a total of three Zombie stranglings, after which you turn to dust. Once you have assumed your undead state, you must continue to act like any other dead player. No talking, voting, or other participation in village activities is allowed. Your transformation ONLY takes place as a result of a wolf attack. All other forms of death do not trigger the transformation.
 
 # Wolf Team (Pack hunters)
+
+A number of abilities refer to the phrase "Werewolf Kill" 
+For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role abilitiy does not count as a werewolf kill for the lunatic, shapeshift, etc. 
+
+
 
 ## Werewolf
 * **TEAM:** Werewolf
@@ -1158,7 +1163,7 @@ The possessor of a Crystall Ball may use it at night (including the night 0 that
 
 ## Wolfsbane
 
-The possessor of Wolfsbane will be magically spared from death by wolf attacks, once. The Moderator will inform the Wolfsbane owner of their special status at the start of the game.
+The possessor of Wolfsbane will be magically spared from death by wolf attacks, once. A wolf attack is an attack by a plater with the race of Werewolf. It does not protect against the lunatic, for example. The Moderator will inform the Wolfsbane owner of their special status at the start of the game.
 
 
 
