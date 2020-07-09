@@ -937,6 +937,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. However, you 
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** No
+
 You are a human who fights for your new werewolf overlords. 
 You have a once per game ability that can only be used during the day: Compose a message to the moderator "I am the butcher, and I think player 1 is role A, player 2 is role b". The moderator will tell the village you are the butcher. The moderator will evaluate every statement one by one (starting with the first statement). If the first statement is true, that player is immediately eliminated (special abilities can prevent this). If that statement is false, the moderator stops parsing and does nothing. The moderator will continue evaluating statements until you get one incorrect, or he reaches the end of your message.  
 You should post the message in one block to the mod.  Once your butcher block has been posted, you have no special powers, and just a regular human hoping for a werewolf victory.  
