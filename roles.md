@@ -567,7 +567,7 @@ At the end of each night, you are told how many [Werewolves](#werewolf) OR [Vamp
 * **NIGHT ACTIVITY:** No
 
 Each night you learn the role of a random living player, but not whose role it is. You only learn roles with significant impact on the game (ie, not [Villager](#villager)).
-In a game with a distributed role pool ( see [moderator notes](/moderator-notes#telling-players-the-role-pool) ) the psychic has an additional night 0 ability. 
+In a game with a distributed role pool ( see [moderator notes](/moderator-notes.md#distributed-role-pool) ) the psychic has an additional night 0 ability. 
 Choose 1, either: Learn two additional roles of random living players (so you will begin the game knowing three roles), OR Learn the identity of the role you discovered in night 0. 
 
 ## Saint
@@ -819,7 +819,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on t
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter.
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter. The transformed player now has the gneric [Werewolf](#werewolf) role, and loses their previous role. This includes team  and alingment. This transformation does not count as a kill for the purposes of any effects. 
 
 ## Executioner Wolf
 * **TEAM:** Werewolf
@@ -857,7 +857,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also 
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: If you're executed, just before you die you'll get to kill one player who voted for you. In this respect you're like a highly effective Hunter. 
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: If you're executed, just before you die you'll get to kill one player who voted for you. In this respect you're like a highly effective Hunter. This power only occurs if you are eliminated to a village execution. If you are eliminated any other way, you do not have this power.
 
 
 
@@ -932,9 +932,11 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. However, you 
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** No
-You are a human who fights for your new werewolf overlords. Once per game compose a message that "I am the butcher, and I think player 1 is role A, player 2 is role b". The moderator will confirm that you are the butcher to village, and will evaluate every statement one by one (starting with the first statement). If the first statement is true, that player is immediately eliminated (special abilities can prevent this). If that statement is false, the moderator stops parsing. The moderator will continue evaluating statements until you get one incorrect, or you conclude with "and that's all I know". 
-You should post the message in one block.  Once your butcher block has been posted, you have no special powers, and just a regular human hoping for a werewolf victory.  
+You are a human who fights for your new werewolf overlords. 
+You have a once per game ability that can only be used during the day: Compose a message to the moderator "I am the butcher, and I think player 1 is role A, player 2 is role b". The moderator will tell the village you are the butcher. The moderator will evaluate every statement one by one (starting with the first statement). If the first statement is true, that player is immediately eliminated (special abilities can prevent this). If that statement is false, the moderator stops parsing and does nothing. The moderator will continue evaluating statements until you get one incorrect, or he reaches the end of your message.  
+You should post the message in one block to the mod.  Once your butcher block has been posted, you have no special powers, and just a regular human hoping for a werewolf victory.  
  You don't know who the Werewolves are, and they won't know who you are, either.
+
 ## Betrayer
 * **TEAM:** Werewolf
 * **RACE:** Human
@@ -1088,7 +1090,7 @@ If there is a vampire hunter alive in the village, the vampires cannot win.
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 You and your fellow Vampires are another faction aiming to take over the village. Like the werewolf Pack Hunters, you'll confer each evening with your fellow Vampires and target a player to be killed. The first night of the game, the Moderator will tell you the identities of your fellow Vampires. 
-When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 human hours into the 48 hour cycle) of that day, at which point they are eliminated. 
+When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 human hours into the 48 hour cycle) of that day, at which point they are eliminated. Their votes will stand, and cannot be changed at that point. 
 You cannot convert other players to the vampire cause. 
 Your team's victory conditions are identical to those of the Wolf team with one exception:
 If there is a vampire hunter alive in the village, the vampires cannot win.

@@ -26,6 +26,7 @@ Werewolf is usually played as a party game, but it can be modified to be played 
 
 ## Goal
 In Werewolf, there are two teams - a set of villagers and a set of werewolves. The werewolves all know each other. The villagers are trying to kill all werewolves, and the werewolves are trying to even the numbers. The first team to do so wins.
+Here are some notes for [new players](/newplayer.md)
 
 ### Victory Conditions
 **VILLAGE TEAM:** The Village team wins the game when ALL of its kill-capable enemies (not necessarily just the Wolf team's "Pack Hunters") have been eliminated.
@@ -42,9 +43,10 @@ The first day, the Moderator will email each player with their [role information
 The game is played over a 3 day cycle. Each Day phase takes two real days, and each Night phase takes one full day. If playing in an office setting, only M-F count.
 
 ### Day
-During the Day phase, players may communicate with each other and everyone is allowed to vote on who to execute, either by commenting on a wiki or via a messenger like Slack. Voting is based on the number of people who vote. So, if only one person votes, then that person's vote becomes law - in other words, make sure that you vote! If you choose not to execute someone, you may vote "No Execution"
+During the Day phase, players may communicate with each other and everyone is allowed to vote on who to execute, either by commenting on a wiki or via a messenger like Slack. Voting is based on the number of people who vote. So, if only one person votes, then that person's vote becomes law - in other words, make sure that you vote! If you choose not to execute someone, you may vote "No Execution".
 The preferred method is using emoji reactions in a chat thread. 
 The moderator announces a "end of day" time and checks the thread. The player with the most votes for elimination is eliminated. If the "no one should be eliminated" has the most votes, no one is eliminated. 
+
 As soon as an elimination happens (or the village passes on the chance to eliminate), there is a night phase. 
 
 ### Night
@@ -55,5 +57,7 @@ After the night phase, the next day phase begins. This continues until a team ha
 Most villagers are not active at night. That means that they should not be talking to each other. Don't talk with each other about the game during the Night phases - that's one reason that they're shorter, so that you don't have to wait as long to plot and scheme. Also remember - Dead Men Tell No Tales! If you're dead, you can't talk with living players about the game. 
 
 Do not under any circumstances share private emails or texts from the Moderator, because doing so constitutes cheating and will result in a swift and painful death. The most obvious example would be sharing such emails in order to prove that you "really are the <insert role here>." The honor system comes into play in several areas of this game, and this is one of them. Emails from the Moderator are PRIVATE, so please keep them that way. 
+
+All prior votes must remain public. Someone changing their previous vote (a living player or a ghost), will break the game. 
 
 When a player is eliminated, they are given full information about what is going on, (who has what roles, what actions are being performed), so they can spectate the game.  This is best accomplished by them being invited to a ghost chat. 
