@@ -53,6 +53,17 @@ As soon as an elimination happens (or the village passes on the chance to elimin
 During the Night phase, those players that are [active at night](/roles) will send the Moderator what actions they'd like to take.
 After the night phase, the next day phase begins. This continues until a team has achieved its victory condition. 
 
+### Night 0
+In a large game with multiple complex roles, a game that uses distributed roll information, or a game with heavy item usage, a night 0 may start the game. 
+During that night:
+Every player is told their role. 
+Roles which have information gathering actions (which are usually good roles), get one chance to use their power. 
+Roles such as cupid which affect other players roles (cupid), use their power.
+Players may use items. 
+The pack-hunters are told who they other pack hunters are. 
+
+In a game with few complex roles, night 0 can take place at the same time and day 1. 
+
 ## Communication
 Most villagers are not active at night. That means that they should not be talking to each other. Don't talk with each other about the game during the Night phases - that's one reason that they're shorter, so that you don't have to wait as long to plot and scheme. Also remember - Dead Men Tell No Tales! If you're dead, you can't talk with living players about the game. 
 
