@@ -187,7 +187,7 @@ breaking a tie. The haunted player is not aware they are haunted and you are req
 * **ALIGNMENT:** Starts as Good
 * **NIGHT ACTIVITY:** No*
 
-You start the game thinking you're just another [Villager](#villager) with no special powers. At the start of the third night, you assume the role of whichever player was first killed by the wolves. If no kills have occurred, then you turn into an ordinary villager, none the wiser.
+You start the game thinking you're just another [Villager](#villager) with no special powers. At the start of the third night, you assume the role of whichever player was first killed by the wolves(pack hunter kill). If no kills have occurred, then you turn into an ordinary villager, none the wiser.
 
 
 ## Seer
@@ -767,8 +767,9 @@ You begin the game as a standard [Villager](#villager), with no special powers. 
 
 # Wolf Team (Pack hunters)
 
-A number of abilities refer to the phrase "Werewolf Kill" 
-For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role abilitiy does not count as a werewolf kill for the lunatic, shapeshifter, etc. 
+A number of abilities refer to the phrase "Werewolf Kill"  
+For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role abilitiy does not count as a werewolf kill for the lunatic,  dark wolf, etc. 
+
 
 
 
@@ -808,7 +809,7 @@ If your final vote for the day does not match the required vote, then you commit
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Each night, choose another Werewolf. If the Werewolves do not make a kill (either by choice or because they were blocked), then you kill the Werewolf you chose.
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Each night, choose another Werewolf. If the Werewolves do not make a pack-hunter kill (either by choice or because they were blocked), then you kill the Werewolf you chose.
 
 ## Dire Wolf
 * **TEAM:** Werewolf
@@ -816,7 +817,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Each night, c
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on the 4th Night, you may attack one additional player (by yourself) per night, in addition to taking part in the normal "pack" kill. Because of this, it's in your best interest to wait until the pack has announced its target to the Moderator before selecting a target for your solo kill. Offsetting this powerful ability is an equally powerful weakness: If you are scanned by the [Seer](#seer), you will not merely be revealed as a werewolf - you will be killed! Since all night takes place simultaneously, being scanned will not negate your solo kill during that night.
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on the 4th Night, you may attack one additional player (by yourself) per night, in addition to taking part in the normal "pack-hunter" kill. Because of this, it's in your best interest to wait until the pack has announced its target to the Moderator before selecting a target for your solo kill. Offsetting this powerful ability is an equally powerful weakness: If you are scanned by the [Seer](#seer), you will not merely be revealed as a werewolf - you will be killed! Since all night takes place simultaneously, being scanned will not negate your solo kill during that night.
 
 ## Gray Wolf
 * **TEAM:** Werewolf
@@ -852,7 +853,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Despite this,
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the Paranoid Villager. You must vote to execute the player that is eliminated each day.. If your final vote for the day does not match the required vote, then you commit suicide at the end of the day. Required votes can never be None or yourself.
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the Paranoid Villager. You must vote to execute the player that is eliminated each day. If your final vote for the day does not match the required vote, then you commit suicide at the end of the day. Required votes can never be None or yourself.
 
 
 
@@ -1021,7 +1022,7 @@ To the outside world you appear to be just another Villager, but you're actually
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you select a player. If the Werewolves choose to attack you, that player's role is revealed to the Werewolves. There is no kill that night. At the start of the game, you will not know who your Wolf team allies are, and those allies won't know you, either. The first time the Werewolves chose to attack you, they will be told you are the spy (and the identity of the player you chose that night) and you will be told who the current pack-hunters are. 
+Each night, you select a player. If the Werewolves choose to attack you, that player's role is revealed to the Werewolves. There is no kill that night. At the start of the game, you will not know who your Wolf team allies are, and those allies won't know you, either. The first time the Werewolves chose to attack you as part of their pack-hunter attack, they will be told you are the spy (and the identity of the player you chose that night) and you will be told who the current pack-hunters are. 
 
 
 ## Wolfman
