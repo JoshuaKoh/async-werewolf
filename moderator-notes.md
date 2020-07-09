@@ -27,13 +27,20 @@ Every night phase, collect all of actions from every player, then resolve them.
 
 # How to setup a game
 See [moderator role information](/modroles) for details, but the things you want to keep in mind are:
+
 Game speed: Roles with more elimination potential speed up the game.  adding 4 or more factions can make a 30 person game move at a reasonable pace. 
-Role balance: Each multiple player faction should have roughlty 
+
+Role balance: Each multiple player faction should have rough power parity. 
+
 Information Balance: In async werewolf, roles that know each other early on can (and will) form private chats. There being seperate victory conditions (such as lone wolf) is key to werewolfs not having too strong of an advantage. 
 
-Logic Puzzle Vs Trusth excercise: If the butcher is not in play, if there are too many named roles, a very dominant strategy is for every player to claim their role, and players who don't claim/ have a contridiction are eliminated one by one. This style of play is not recommended for async games, because the logic puzzle can be "solved". Instead it is recommended that one of the following occurs:
+Logic Puzzle Vs Trusth excercise: If the butcher is not in play, if there are too many named roles, a very dominant strategy is for every player to claim their role, and players who don't claim/ have a contridiction are eliminated one by one. This style of play is not recommended for async games, because the logic puzzle can be "solved". 
+Instead it is recommended that one of the following occurs:
+
 there is a 1:1 ration of village (or start the game believing they are a villager) to non villager good roles. 
+
 The butcher is in play. 
+
 There pack hunters are told 3 roles at the begining of the game that are not in play. 
 
 # Decide on gamewide rules
