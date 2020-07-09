@@ -567,6 +567,8 @@ At the end of each night, you are told how many [Werewolves](#werewolf) OR [Vamp
 * **NIGHT ACTIVITY:** No
 
 Each night you learn the role of a random living player, but not whose role it is. You only learn roles with significant impact on the game (ie, not [Villager](#villager)).
+In a game with a distributed role pool ( see [moderator notes](/moderator-notes#telling-players-the-role-pool) ) the psychic has an additional night 0 ability. 
+Choose 1, either: Learn two additional roles of random living players (so you will begin the game knowing three roles), OR Learn the identity of the role you discovered in night 0. 
 
 ## Saint
 * **TEAM:** Village
