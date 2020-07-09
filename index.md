@@ -62,7 +62,7 @@ Roles such as cupid which affect other players roles (cupid), use their power.
 Players may use items. 
 The pack-hunters are told who they other pack hunters are. 
 
-In a game with few complex roles, night 0 can take place at the same time and day 1. 
+In a game with few complex roles, night 0 can take place at the same time as day 1. 
 
 ## Communication
 Most villagers are not active at night. That means that they should not be talking to each other. Don't talk with each other about the game during the Night phases - that's one reason that they're shorter, so that you don't have to wait as long to plot and scheme. Also remember - Dead Men Tell No Tales! If you're dead, you can't talk with living players about the game. 
