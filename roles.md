@@ -1163,7 +1163,7 @@ The possessor of a Crystall Ball may use it at night (including the night 0 that
 
 ## Wolfsbane
 
-The possessor of Wolfsbane will be magically spared from death by wolf attacks, once. A wolf attack is an attack by a plater with the race of Werewolf. It does not protect against the lunatic, for example. The Moderator will inform the Wolfsbane owner of their special status at the start of the game.
+The possessor of Wolfsbane will be magically spared from death by wolf attacks, once. A wolf attack is an attack by a player with the race of Werewolf. It does not protect against the lunatic, for example. The Moderator will inform the Wolfsbane owner of their special status at the start of the game.
 
 
 
