@@ -156,7 +156,7 @@ Drunk adds chaos, and doesnt help either team.
 Villager, helps little more than a regular villager. 
 
 ### Shapeshifter
-see doppleganger. 
+see doppleganger. It's worth noting the rules questions about "what is a werewolf kill", and whether or not this role should be rewritten to be simply the doppleganger (the first pack-hunter kill). Currently, the class is as is because for the wolves to not have made two pack hunter kills in a row usually implies the werewolf team is losing, and doesn't need another power roll allied against them.  Further playtesting is needed to determine if this role should be rewritten to exactly match the doppleganger. 
 
 
 ## Seer
@@ -350,7 +350,7 @@ tbd
 tbd
 
 ## Vampire Hunter
-tbd
+Should be in a game with vampires. 
 
 
 
@@ -384,13 +384,13 @@ This ability is very strong. Do not use without a wolf betrayer of some some sor
 tbd
 
 ## Dark Wolf
-tbd
+you can balance the game with a dark wolf being .5 wolves. 
 
 ## Dire Wolf
 tbd
 
 ## Gray Wolf
-tbd
+balance as 1.5 wolves. 
 
 
 ## Executioner Wolf
@@ -398,7 +398,7 @@ tbd
 
 
 ## Lone Wolf
-this should be a very common role. 
+this should be a very common role.  balance as a .75 or .5 wolves 
 
 
 ## Paranoid Wolf
@@ -415,7 +415,7 @@ be clear about restless dead rules before playing this role.
 
 
 ## Usurper
-tbd
+Every game should have a dark wolf, ususrper and alpha wolf or lone wolf. 
 
 ## White Wolf
 tbd
@@ -427,7 +427,7 @@ tbd
 tbd
 
 ## Wolf Seer
-tbd
+I recommend running vampires instead. 
 
 
 
@@ -449,7 +449,7 @@ tbd
 tbd
 
 ## Lunatic
-tbd
+balance as a full wolf. 
 
 ## Minion
 tbd
