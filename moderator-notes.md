@@ -10,6 +10,7 @@ title: Async Werewolf - Roles
 - [How to moderate a game](#how-to-moderate-a-game)
 - [How to setup a game](#how-to-setup-a-game)
 - [Decide on gamewide rules](#decide-on-gamewide-rules)
+  - [open or closed](#open-or-closed)
   - [deciding on the role pool](#deciding-on-the-role-pool)
   - [telling players the role pool](#telling-players-the-role-pool)
   - [town types](#town-types)
@@ -44,6 +45,14 @@ The butcher is in play.
 There pack hunters are told 3 roles at the begining of the game that are not in play. 
 
 # Decide on gamewide rules
+
+##  open or closed
+The most important gamewide rule is where are players allowed to discuss the game. In an "open" game, anything can be discussed by anyone with some limitations (not sharing a screenshot, the dad can't talk). For a long a running async experience this is the default method, because frankly, it's easier to enforce. Over the course of days/weeks for a long running game, its extremely likely players who know each other in any other context will have werewolf come up. 
+Open games generally benefit the werewolf team, and role should be selected to help counterbalance this. 
+
+Closed games recreate standard play by post forum experience: there is a single chat channel or message board for the game, and all game related chat must occur there. There are seperate, moderator created chat channels for any players who are allowed to communicate secretly. 
+
+
 
 ##  deciding on the role pool
 
