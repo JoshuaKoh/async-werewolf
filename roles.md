@@ -819,7 +819,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on t
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter. The transformed player now has the gneric [Werewolf](#werewolf) role, and loses their previous role. This includes team  and alingment. This transformation does not count as a kill for the purposes of any effects. 
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter. The transformed player now has the gneric [Werewolf](#werewolf) role, and loses their previous role. This includes team  and alignment. This transformation does not count as a kill for the purposes of any effects. 
 
 ## Executioner Wolf
 * **TEAM:** Werewolf
