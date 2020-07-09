@@ -12,6 +12,7 @@ title: Async Werewolf - Roles
     - [Cursed](#cursed)
     - [Doppleganger](#doppleganger)
     - [Drunk](#drunk)
+    - [Ghost](#ghost)
     - [Shapeshifter](#shapeshifter)
   - [Seer](#seer)
     - [Apprentice Seer](#apprentice-seer)
@@ -22,10 +23,6 @@ title: Async Werewolf - Roles
     - [Amateur Bodyguard](#amateur-bodyguard)
     - [Sacrificial Bodyguard](#sacrificial-bodyguard)
     - [Paranoid Bodyguard](#paranoid-bodyguard)
-  - [Restless Dead](#restless-dead)
-    - [Zombie](#zombie)
-    - [Ghost](#ghost)
-    - [Specter](#specter)
   - [Alchemist](#alchemist)
   - [Aura Seer](#aura-seer)
   - [Campaigner](#campaigner)
@@ -36,7 +33,6 @@ title: Async Werewolf - Roles
   - [Friendly Neighbor](#friendly-neighbor)
   - [Diseased](#diseased)
   - [Gambler](#gambler)
-  - [Ghost](#ghost)
   - [Gossip](#gossip)
   - [Grave Digger](#grave-digger)
   - [Executioner](#executioner)
@@ -77,46 +73,58 @@ title: Async Werewolf - Roles
   - [Watcher](#watcher)
   - [Witch](#witch)
   - [Witch Doctor](#witch-doctor)
-  - [Zombie](#zombie)
+  - [Vampire Hunter](#vampire-hunter)
   - [Siblings](#siblings)
   - [Lovers](#lovers)
-- [Wolf Team](#wolf-team)
+  - [Restless Dead (Village Team)](#restless-dead-village-team)
+    - [Specter](#specter)
+    - [Zombie](#zombie)
+- [Wolf Team (Pack hunters)](#wolf-team-pack-hunters)
   - [Werewolf](#werewolf)
   - [Alpha Wolf](#alpha-wolf)
-  - [Betrayer](#betrayer)
-  - [Copycat](#copycat)
   - [Cowardly Wolf](#cowardly-wolf)
   - [Dark Wolf](#dark-wolf)
   - [Dire Wolf](#dire-wolf)
   - [Gray Wolf](#gray-wolf)
   - [Executioner Wolf](#executioner-wolf)
-  - [Harlot](#harlot)
   - [Lone Wolf](#lone-wolf)
-  - [Lunatic](#lunatic)
-  - [Minion](#minion)
   - [Paranoid Wolf](#paranoid-wolf)
-  - [Provocateur](#provocateur)
   - [Red Wolf](#red-wolf)
-  - [Saboteur](#saboteur)
-  - [Sorcerer](#sorcerer)
   - [Spirit Wolf](#spirit-wolf)
-  - [Spy](#spy)
   - [Usurper](#usurper)
   - [White Wolf](#white-wolf)
   - [Wolf Campaigner](#wolf-campaigner)
   - [Wolf Cub](#wolf-cub)
   - [Wolf Seer](#wolf-seer)
-  - [Wolfman](#wolfman)
   - [Wolfwere](#wolfwere)
+- [Wolf Team (Non Pack Hunters)](#wolf-team-non-pack-hunters)
+  - [Butcher](#butcher)
+  - [Betrayer](#betrayer)
+  - [Copycat](#copycat)
+  - [Harlot](#harlot)
+  - [Lunatic](#lunatic)
+  - [Minion](#minion)
+  - [Saboteur](#saboteur)
+  - [Sorcerer](#sorcerer)
+  - [Provocateur](#provocateur)
+  - [Spy](#spy)
+  - [Wolfman](#wolfman)
 - [Advanced Teams](#advanced-teams)
   - [Cult Leader](#cult-leader)
   - [Hoodlum](#hoodlum)
   - [Rival Tailors](#rival-tailors)
   - [Tanner](#tanner)
   - [Vampire](#vampire)
+  - [Neophyte Vampire](#neophyte-vampire)
+  - [Chupacabra](#chupacabra)
+  - [Lovestruck Chupacabra](#lovestruck-chupacabra)
+  - [Lovestruck Werewolf](#lovestruck-werewolf)
+  - [Devil](#devil)
 - [Items](#items)
   - [The Amulet of Protection](#the-amulet-of-protection)
+  - [Aura Stone](#aura-stone)
   - [Coffee](#coffee)
+  - [Crsyal Ball](#crsyal-ball)
   - [Wolfsbane](#wolfsbane)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -129,7 +137,7 @@ title: Async Werewolf - Roles
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-You're just an Average person with no special powers who is trying to rid your community of evil. Then again, you may not be. Many of the special roles in the game start out with the player thinking themselves to be "just a villager" and have the potential to evolve along very different lines (for example, [Cursed](#cursed), [Drunk](#drunk), [Shapeshifter](#shapeshifter).
+You're just an Average person with no special powers who is trying to rid your community of evil. Then again, you may not be. Many of the special roles in the game start out with the player thinking themselves to be "just a villager" and have the potential to evolve along very different lines (for example, [Cursed](#cursed), [Drunk](#drunk) or [Shapeshifter](#shapeshifter).
 
 On the other hand, even if you truly ARE just a plain Villager, you can still have a big impact on the game because you won't need to concoct an elaborate story and/or be a good actor when you're interrogated about your role. This allows you to play the game more loosely than most of the players with "power roles" and gives you a better chance of gaining useful information for your team.
 
@@ -513,7 +521,7 @@ When a player is eliminated by the village, you must have voted to eliminate the
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player and you are informed by the Moderator if that player is the [Minion](#minion). The Partisan has no additional special powers, but the Minion is a powerful ally of the Wolf team.
+Each night, you may choose a player and you are informed by the Moderator if that player is the [Minion](#minion) or the [Lunatic](#lunatic). The Partisan has no additional special powers, but the Minion and lunatic are powerful allies of the Wolf team.
 
 ## Possessed
 * **TEAM:** Village
@@ -702,7 +710,13 @@ Once during the game, you are told who the victim of the wolves will be. You can
 
 Once per game you can bring back a player who was killed. They return with their previous alignment, but no special abilities.
 
+## Vampire Hunter
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Good
+* **NIGHT ACTIVITY:** No
 
+Each night you a choose a player. If that player is a vampire, the moderator tells you "vampire" if that player is any other race, the moderator tells you "not a vampire". In addition, vampires may never eliminate you at night. Any attempts to do so fail, and any attempt to convert you eliminates the vampire in question. 
 
 
 
@@ -768,22 +782,7 @@ The first night of the game, the Moderator will tell you the identities of your 
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional passive power: The first time you are scanned by the Seer, you will NOT be seen as a werewolf. However, subsequent Seer scans will reveal the truth, that you are in fact a werewolf.
 
-## Betrayer
-* **TEAM:** Werewolf
-* **RACE:** Human
-* **ALIGNMENT:** Evil
-* **NIGHT ACTIVITY:** No
 
-You are a villager who possesses no special powers, but your hatred of the village elders means that you'll do anything to change the status quo. In this case, that means aligning yourself with the forces of evil and doing all you can to ensure that the Wolf team achieves victory. The trouble is, at the start of the game you won't know who your Wolf team allies are, and they
-won't know who you are, either.
-
-## Copycat
-* **TEAM:** Werewolf
-* **RACE:** Human
-* **ALIGNMENT:** Evil
-* **NIGHT ACTIVITY:** Yes
-
-Each night, choose a player. The first time the Werewolves do not kill (either by choice or because they were blocked), the player you targeted IS killed. You try to emulate the Werewolf killings so it will be seen as though the player was killed by the wolves. You don't know who the Werewolves are, and they won't know who you are, either.
 
 ## Cowardly Wolf
 * **TEAM:** Werewolf
@@ -924,6 +923,24 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You are also 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. However, you are especially weak to psychic forces. If the Seer chooses you as their target, you are killed by the psychic pressure!
 
 # Wolf Team (Non Pack Hunters)
+
+## Butcher
+* **TEAM:** Werewolf
+* **RACE:** Human
+* **ALIGNMENT:** Evil
+* **NIGHT ACTIVITY:** No
+You are a human who fights for your new werewolf overlords. Once per game compose a message that "I am the butcher, and I think player 1 is role A, player 2 is role b". The moderator will confirm that you are the butcher to village, and will evaluate every statement one by one (starting with the first statement). If the first statement is true, that player is immediately eliminated (special abilities can prevent this). If that statement is false, the moderator stops parsing. The moderator will continue evaluating statements until you get one incorrect, or you conclude with "and that's all I know". 
+You should post the message in one block.  Once your butcher block has been posted, you have no special powers, and just a regular human hoping for a werewolf victory.  
+ You don't know who the Werewolves are, and they won't know who you are, either.
+## Betrayer
+* **TEAM:** Werewolf
+* **RACE:** Human
+* **ALIGNMENT:** Evil
+* **NIGHT ACTIVITY:** No
+
+You are a villager who possesses no special powers, but your hatred of the village elders means that you'll do anything to change the status quo. In this case, that means aligning yourself with the forces of evil and doing all you can to ensure that the Wolf team achieves victory. The trouble is, at the start of the game you won't know who your Wolf team allies are, and they
+won't know who you are, either.
+
 
 ## Copycat
 * **TEAM:** Werewolf
@@ -1137,7 +1154,6 @@ The possessor of a Crystall Ball may use it at night (including the night 0 that
 ## Wolfsbane
 
 The possessor of Wolfsbane will be magically spared from death by wolf attacks, once. The Moderator will inform the Wolfsbane owner of their special status at the start of the game.
-
 
 
 
