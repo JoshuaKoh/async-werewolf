@@ -359,6 +359,7 @@ You suffer from a chronic illness. If you are attacked by
 werewolves during the night, you are killed as normal. However, the werewolves will become so ill after devouring you that they will not feed the following night.
 
 The Werewolves are not informed when they kill a Diseased player.
+It is very possible that the best thing you can do for your team is make yourself a target of the werewolves.
 
 ## Gambler
 * **TEAM:** Village
