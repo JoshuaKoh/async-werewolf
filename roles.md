@@ -768,7 +768,7 @@ You begin the game as a standard [Villager](#villager), with no special powers. 
 # Wolf Team (Pack hunters)
 
 A number of abilities refer to the phrase "Werewolf Kill" 
-For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role abilitiy does not count as a werewolf kill for the lunatic, shapeshift, etc. 
+For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role abilitiy does not count as a werewolf kill for the lunatic, shapeshifter, etc. 
 
 
 
