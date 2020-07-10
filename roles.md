@@ -34,6 +34,7 @@ title: Async Werewolf - Roles
   - [Diseased](#diseased)
   - [Gambler](#gambler)
   - [Gossip](#gossip)
+  - [Graffiti Artist](#graffiti-artist)
   - [Grave Digger](#grave-digger)
   - [Executioner](#executioner)
   - [Hunter](#hunter)
@@ -77,6 +78,7 @@ title: Async Werewolf - Roles
   - [Siblings](#siblings)
   - [Lovers](#lovers)
   - [Restless Dead (Village Team)](#restless-dead-village-team)
+  - [Communicative Spirit](#communicative-spirit)
     - [Specter](#specter)
     - [Zombie](#zombie)
 - [Wolf Team (Pack hunters)](#wolf-team-pack-hunters)
@@ -123,6 +125,8 @@ title: Async Werewolf - Roles
 - [Items](#items)
   - [The Amulet of Protection](#the-amulet-of-protection)
   - [Aura Stone](#aura-stone)
+  - [Cursed Amulet](#cursed-amulet)
+  - [Cursed Hat](#cursed-hat)
   - [Coffee](#coffee)
   - [Crsyal Ball](#crsyal-ball)
   - [Wolfsbane](#wolfsbane)
@@ -330,7 +334,7 @@ If your final vote for the day does not match the required vote, then you commit
 * **NIGHT ACTIVITY:** No
 
 On your first night as cupid (which is usually night 0/ the beginning of the game), you pick two players who will immediately become [Lovers](#lovers). You may pick yourself as one of the Lovers if you like. The Lovers will be made aware of each other via the Moderator, but their true roles (and thus team alliance) are NOT revealed to each other.
-If you wake up to discover you are cupid ([drunk](#drunk) or [doppleganger](#doppleganger), you will immediately pick two players to become lovers. If you are the doppleganger this could could cause a 3 way love triangle, as the previously selected lovers are valid. 
+If you wake up to discover you are cupid ([drunk](#drunk) or [doppleganger](#doppleganger)), you will immediately pick two players to become lovers. If you are the doppleganger or shapeshifter this could could cause a 3 way love triangle, as the previously selected lovers are valid. 
 
 ## Disciple
 * **TEAM:** Village
@@ -379,6 +383,15 @@ Each night, you may select a player that you think will be killed by the wolves.
 * **NIGHT ACTIVITY:** Yes (Once)
 
 On the third night, you will tell the Moderator the names of two living players. The Moderator will tell you one of their roles, but not who the player is that owns the role.
+
+## Graffiti Artist
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Good
+* **NIGHT ACTIVITY:** Yes
+
+Each night, you may choose a player. The next morning, the entire town will be notified that that player's house has been defaced.
+
 
 ## Grave Digger
 * **TEAM:** Village
@@ -523,7 +536,7 @@ When a player is eliminated by the village, you must have voted to eliminate the
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player and you are informed by the Moderator if that player is the [Minion](#minion) or the [Lunatic](#lunatic). The Partisan has no additional special powers, but the Minion and lunatic are powerful allies of the Wolf team.
+Each night, you may choose a player and you are informed by the Moderator if that player is the [Minion](#minion) or the [Lunatic](#lunatic). The Partisan has no additional special powers, but the Minion and Lunatic are powerful allies of the Wolf team.
 
 ## Possessed
 * **TEAM:** Village
@@ -750,6 +763,17 @@ If for any reason your role changes, your love does not, and your lovers conditi
 ## Restless Dead (Village Team)
 When most roles in this game are eliminated, you stop playing, but in exchange, you can see everything that's going on in the game. The restless dead work differently. These roles can keep affecting the game after their elimination, but they don't get full access to roles and information until after they are done affecting the game. 
 
+## Communicative Spirit
+* **TEAM:** Per role
+* **RACE:** Per role
+* **ALIGNMENT:** Per role
+* **NIGHT ACTIVITY:** Per role
+
+In this village, death is never the end. If you are eliminated, you do not leave the game. You may still talk and communicate as normal. All of your powers no longer function, and you count as having been eliminated for victory purposes. 
+You do not receive access to any moderator only information (where ghosts can usually learn all of the roles to spectate).
+You have a one use per game power of Vote. you may, only one time for the remainder of the game, vote to eliminate in a vote going on during the day. You may not use this vote to vote to save or prevent an elimination.  
+You may not give or receive items. 
+
 ### Specter
 * **TEAM:** Village
 * **RACE:** Human
@@ -781,7 +805,7 @@ For the purposes of all abilities (not wolfsbane), this refers to "The kill made
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the Pack Hunters on the Werewolf team. Each night you confer with your fellow Pack Hunters to choose a player to devour. Once you've decided, one of the Pack Hunters will tell the Moderator your choice. 
+You are one of the Pack Hunters on the Werewolf team. Each night you confer with your fellow Pack Hunters to choose a player to devour. Once you've decided, one of the Pack Hunters will tell the Moderator your choice. The pack hunters, and only the pack hunters (not werewolf allied humans) may communicate with each other at night. 
 
 The first night of the game, the Moderator will tell you the identities of your fellow Pack Hunters. However, only YOU will know what type of wolf you are. It may or may not be advantageous for you to reveal your full identity to your teammates.
 
@@ -876,7 +900,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one 
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. If executed, your spirit can still speak with the Wolves, but you can't speak publicly or vote. The Restless Dead rules If you're killed via other means, you don't have this power.
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. If executed, your spirit can still speak with the Wolves, but you can't speak publicly or vote. The Restless Dead rules still apply.  If you're killed via other means, you don't have this power.
 
 
 
@@ -1154,13 +1178,14 @@ The possessor of the Amulet of Protection will be magically spared from death by
 
 ## Aura Stone
 
-The possessor of an Aura Stone may use it once at night (including the night 0 that happens at the same time as day 1) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "human". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
+The possessor of an Aura Stone may use it once at night (including the night 0 that sometimes happens at the same time as day 1) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "human". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
 
 ## Cursed Amulet
-While you possess the Cursed Amulet, your night powers, whatever they are, are inactive (if you are the [seer](#seer) you do not get a scan, if you are a pack-hunter, the pack communicates and eliminates without you while you have the amulet. It is not possible to destroy the Cursed Amulet.  It is possible to give Cursed Amulet to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the Cursed Amulet who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed amulet. It is not possible to give away the cursed amulet on the same phase it is received. 
+While you possess the Cursed Amulet, your night powers, whatever they are, are inactive (if you are the [seer](#seer) you do not get a scan, if you are a pack-hunter, the pack communicates and eliminates without you while you have the amulet. It is not possible to destroy the Cursed Amulet.  It is possible to give Cursed Amulet to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the Cursed Amulet who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed amulet. It is not possible to give away the cursed amulet on the same phase(day phase or night phase) it is received. 
 
 ## Cursed Hat
-While you possess the Cursed Hat, your vote for or against elimination doesn't count. The hat is just too ugly. It is not possible to destroy the Cursed Hat.  It is possible to give Cursed Hat to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the cursed hat who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed hat. It is not possible to give away the cursed hat on the same phase it is received. 
+While you possess the Cursed Hat, your vote for or against elimination doesn't count towards the vote total. The hat is just too ugly. You, however, think the hat is awesome, and any effects that require or prevent you from voting a certain way will still trigger. 
+It is not possible to destroy the Cursed Hat.  It is possible to give Cursed Hat to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Hat to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the cursed hat who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed hat. It is not possible to give away the cursed hat on the same phase (day phase or night phase) it is received. 
 
 ## Coffee
 
@@ -1168,7 +1193,7 @@ The possessor of the Coffee may use it to restore a once-per-game ability to the
 
 ## Crsyal Ball
 
-The possessor of a Crystall Ball may use it at night (including the night 0 that happens at the same time as day 1) to pick 3 other players. If any of those players race other than human, the ball reveals "non-human". If all are human, the ball reveals "human". The ball cannot be traded, and once used crumbles to dust. If the ball is used after the 2nd night, it can only target two players, rather than three.
+The possessor of a Crystall Ball may use it at night (including the night 0 that  sometimes happens at the same time as day 1) to pick 3 other players. If any of those players race other than human, the ball reveals "non-human". If all are human, the ball reveals "human". The ball cannot be traded, and once used crumbles to dust. If the ball is used after the 2nd night, it can only target two players, rather than three.
 
 
 ## Wolfsbane

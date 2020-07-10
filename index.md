@@ -10,6 +10,7 @@
   - [Game Cycle](#game-cycle)
     - [Day](#day)
     - [Night](#night)
+    - [Night 0](#night-0)
   - [Communication](#communication)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
