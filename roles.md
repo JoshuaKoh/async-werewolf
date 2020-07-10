@@ -329,7 +329,8 @@ If your final vote for the day does not match the required vote, then you commit
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-At the beginning of the game, you pick two players who will immediately become [Lovers](#lovers). You may pick yourself as one of the Lovers if you like. The Lovers will be made aware of each other via the Moderator, but their true roles (and thus team alliance) are NOT revealed to each other.
+On your first night as cupid (which is usually night 0/ the beginning of the game), you pick two players who will immediately become [Lovers](#lovers). You may pick yourself as one of the Lovers if you like. The Lovers will be made aware of each other via the Moderator, but their true roles (and thus team alliance) are NOT revealed to each other.
+If you wake up to discover you are cupid ([drunk](#drunk) or [doppleganger](#doppleganger), you will immediately pick two players to become lovers. If you are the doppleganger this could could cause a 3 way love triangle, as the previously selected lovers are valid. 
 
 ## Disciple
 * **TEAM:** Village
@@ -743,6 +744,7 @@ You and your Lover were chosen by [Cupid](#cupid) at the start of the game. Luck
 * If one of you is killed by any means, the other will commit suicide instantly.
 * If one of you votes to execute the other, the scorned Lover will commit suicide once the vote is made public, which (per the previous rule) will trigger the suicide of the other Lover. Since suicide cannot be prevented by any means, think twice before casting that vote!
 * Naturally, your original role and team alliance (if any) still apply, but you won't know if your Lover is fighting for the same cause. Having Lovers on opposite teams can make for some interesting game dynamics!
+If for any reason your role changes, your love does not, and your lovers condition is still in effect. 
 
 
 ## Restless Dead (Village Team)
@@ -1154,9 +1156,15 @@ The possessor of the Amulet of Protection will be magically spared from death by
 
 The possessor of an Aura Stone may use it once at night (including the night 0 that happens at the same time as day 1) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "human". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
 
+## Cursed Amulet
+While you possess the Cursed Amulet, your night powers, whatever they are, are inactive (if you are the [seer](#seer) you do not get a scan, if you are a pack-hunter, the pack communicates and eliminates without you while you have the amulet. It is not possible to destroy the Cursed Amulet.  It is possible to give Cursed Amulet to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the Cursed Amulet who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed amulet. It is not possible to give away the cursed amulet on the same phase it is received. 
+
+## Cursed Hat
+While you possess the Cursed Hat, your vote for or against elimination doesn't count. The hat is just too ugly. It is not possible to destroy the Cursed Hat.  It is possible to give Cursed Hat to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the cursed hat who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed hat. It is not possible to give away the cursed hat on the same phase it is received. 
+
 ## Coffee
 
-The possessor of the Coffee may use it to restore a once-per-game ability to themselves. The Moderator will inform the Coffee owner of their special status at the start of the game. It is possible to give Coffee to other players. If you want to do this, let the Moderator know who you want to give the Coffee to.
+The possessor of the Coffee may use it to restore a once-per-game ability to themselves. The Moderator will inform the Coffee owner of their special status at the start of the game. It is possible to give Coffee to other players. If you want to do this, let the Moderator know who you want to give the Coffee to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the coffe who gave it to them. If you do this at night, the recipient will not know the previous owner of the coffee. The coffee may be traded on the same day or night it is received. 
 
 ## Crsyal Ball
 
