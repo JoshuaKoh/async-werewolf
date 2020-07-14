@@ -979,7 +979,6 @@ You should post the message in one block to the mod.  Once your butcher block ha
 You are a villager who possesses no special powers, but your hatred of the village elders means that you'll do anything to change the status quo. In this case, that means aligning yourself with the forces of evil and doing all you can to ensure that the Wolf team achieves victory. The trouble is, at the start of the game you won't know who your Wolf team allies are, and they
 won't know who you are, either.
 
-
 ## Copycat
 * **TEAM:** Werewolf
 * **RACE:** Human
@@ -994,7 +993,7 @@ Each night, choose a player. The first time the Werewolves do not kill (either b
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You're a human who is on the side of the Wolf team. Each night, you may choose a player to distract. Because the targeted character is  occupied that night, they are blocked from performing a night action. The same player cannot be targeted two nights in a row. If the targeted player is a Pack Hunter, the pack makes no kill that night, but you'll be told that you blocked a teammate. If the targeted player is a member of the Wolf team, you'll block that player's ability, but you'll also be told that you blocked a teammate.
+You're a human who is on the side of the Wolf team. Each night, you may choose a player to distract. Because the targeted character is occupied that night, they are blocked from performing a night action. The same player cannot be targeted two nights in a row. If the targeted player is a Pack Hunter, the pack makes no kill that night, but you'll be told that you blocked a teammate. If the targeted player is a member of the Wolf team, you'll block that player's ability, but you'll also be told that you blocked a teammate.
 
 At the start of the game, you won't know who your Wolf team allies are, and they won't know who you are, either.
 
@@ -1025,6 +1024,15 @@ To the outside world you appear to be just another Villager, but you're actually
 
 To the outside world you appear to be just another Villager, but you're actually on the side of the Wolf team. You win if the Werewolves win. The Werewolves don't know who you are, and you don't know who they are. 
 
+## Silencer
+* **TEAM:** Werewolf
+* **RACE:** Human
+* **ALIGNMENT:** Evil
+* **NIGHT ACTIVITY:** Yes
+
+You're a human who is on the side of the Wolf team. Each night, you may choose a player to silence.  The target will be unable to speak (no text, emotes nor reactions) in any chat, except to the moderator (they can still use any daytime abilities, if any).  The same player cannot be targeted two nights in a row. At the start of the game, you'll be told who all of the Pack Hunters are, and the Pack Hunters will be told who you are.
+
+If you are targeted by the Silencer, the moderator will inform you that you are silenced before the end of the night.  During that day, if you are asked to respond in any chatroom, you may only reply with the exact phrase "I am silenced." exactly ONCE.  You will be able to speak again when night falls.
 
 ## Sorcerer
 * **TEAM:** Werewolf
