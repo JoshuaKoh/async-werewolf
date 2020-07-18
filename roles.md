@@ -37,7 +37,7 @@ title: Async Werewolf - Roles
   - [Graffiti Artist](#graffiti-artist)
   - [Grave Digger](#grave-digger)
   - [Executioner](#executioner)
-  - [Hunter](#hunter)
+  - [Revenger](#revenger)
   - [Idiot](#idiot)
   - [Jailkeeper](#jailkeeper)
   - [Lamplighter](#lamplighter)
@@ -55,6 +55,7 @@ title: Async Werewolf - Roles
   - [Possessed](#possessed)
   - [Priest](#priest)
   - [Regent](#regent)
+  - [Reporter](#reporter)
   - [Professor](#professor)
   - [Psychic](#psychic)
   - [Saint](#saint)
@@ -103,7 +104,7 @@ title: Async Werewolf - Roles
   - [Butcher](#butcher)
   - [Betrayer](#betrayer)
   - [Copycat](#copycat)
-  - [Harlot](#harlot)
+  - [Debaucher](#debaucher)
   - [Lunatic](#lunatic)
   - [Minion](#minion)
   - [Saboteur](#saboteur)
@@ -128,7 +129,7 @@ title: Async Werewolf - Roles
   - [Cursed Amulet](#cursed-amulet)
   - [Cursed Hat](#cursed-hat)
   - [Coffee](#coffee)
-  - [Crsyal Ball](#crsyal-ball)
+  - [Crystal Ball](#crystal-ball)
   - [Wolfsbane](#wolfsbane)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -183,7 +184,7 @@ You start the game thinking you're just another [Villager](#villager) with no sp
 * **NIGHT ACTIVITY:** No
 
 You are just an ordinary [Villager](#villager) until you die. Once you are killed by any means, you become a Ghost and select a player to haunt! From that point on, the haunted player's vote counts twice. However, the extra vote is only revealed in circumstances where it matters such as creating or
-breaking a tie. The haunted player is not aware they are haunted and you are requied to abide by all other rules for being dead. You are not considered "restless-dead"
+breaking a tie. The haunted player is not aware they are haunted and you are required to abide by all other rules for being dead. You are not considered "restless-dead"
 
 ### Shapeshifter
 * **TEAM:** Starts as Village
@@ -203,8 +204,9 @@ You start the game thinking you're just another [Villager](#villager) with no sp
 You just might be the most powerful member of the Village team. Each night, you'll pick a player to scan. The Moderator will then tell you if that player is a wolf or not. Your power is tempered somewhat by the following caveats:
 
 * The [Alpha Wolf](#alpha-wolf) (a wolf, of course) is initially seen as "not a wolf," although a second reading will yield the truth.
-* The [Lycan](#lycan) (NOT a wolf) is intially seen as a wolf, although a second reading will yield the truth.
-* All human allies of the Wolf team such as the Sorcerer, the Harlot, etc. are seen as "not a wolf."
+* The [Lycan](#lycan) (NOT a wolf) is initially seen as a wolf, although a second reading will yield the truth.
+* All human allies of the Wolf team such as the Sorcerer, the Debaucher, etc. are seen as "not a wolf."
+* There are other races, such as [Vampire] (vampire), which you accurately but unhelpfully name as "not a wolf"
 * There are other types of Seer (see below) that have faulty powers
 * You'll tend to have more knowledge than any other player in the game, thus making you a prime target for the opposition.
 * It is possible for a large game to have multiple Seers. If so, each Seer will operate independently; no information will be shared and they are not made aware of each others' identities.
@@ -279,7 +281,7 @@ You may protect a player each night (like the [Bodyguard](#bodyguard)) but if th
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player to protect, like the [Bodyguard](#bodyguard). However, the "protected" player is also prevented from taking any nighttime action (like the Harlot). You think that you are a regular Bodyguard.
+Each night, you may choose a player to protect, like the [Bodyguard](#bodyguard). However, the "protected" player is also prevented from taking any nighttime action (like the Debaucher). You think that you are a regular Bodyguard.
 
 ## Alchemist
 * **TEAM:** Village
@@ -313,7 +315,7 @@ When you choose to have your vote count double and you end up successfully execu
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player. The Moderator will tell you that player's alighment: Good or Evil.
+Each night, you may choose a player. The Moderator will tell you that player's alignment: Good or Evil.
 
 In games involving multiple Evil factions, and/or Evil human members of the Wolf/Vampire team(s), this role can be even more powerful than the [Seer](#seer).
 
@@ -335,6 +337,15 @@ If your final vote for the day does not match the required vote, then you commit
 
 On your first night as cupid (which is usually night 0/ the beginning of the game), you pick two players who will immediately become [Lovers](#lovers). You may pick yourself as one of the Lovers if you like. The Lovers will be made aware of each other via the Moderator, but their true roles (and thus team alliance) are NOT revealed to each other.
 If you wake up to discover you are cupid ([drunk](#drunk) or [doppleganger](#doppleganger)), you will immediately pick two players to become lovers. If you are the doppleganger or shapeshifter this could could cause a 3 way love triangle, as the previously selected lovers are valid. 
+
+## Curmudgeon
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Good
+* **NIGHT ACTIVITY:** No
+
+No one in the village likes you. Despite being on the good side, and winning if the village wins, you register as evil if scanned by an aura stone, aura seer or similar ability. If Items are being used, you may start the game with an item. 
+
 
 ## Disciple
 * **TEAM:** Village
@@ -363,7 +374,7 @@ Each night, you may choose a player. That player will be notified by the Moderat
 You suffer from a chronic illness. If you are attacked by
 werewolves during the night, you are killed as normal. However, the werewolves will become so ill after devouring you that they will not feed the following night.
 
-The Werewolves are not informed when they kill a Diseased player.
+The Werewolves are not informed when they kill a Diseased player. They are informed at the beginning of the night they are too sick to feed. 
 It is very possible that the best thing you can do for your team is make yourself a target of the werewolves.
 
 ## Gambler
@@ -372,7 +383,7 @@ It is very possible that the best thing you can do for your team is make yoursel
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may select a player that you think will be killed by the wolves. If you are right, your next vote during the day will count double.
+Each night, you may select a player that you think will not survive the night. If you are right, your next vote during the day will count double.
 
 
 
@@ -409,7 +420,7 @@ Each night, you may select a DEAD player to learn if they were active that night
 
 Once per game, you may pardon one player from being executed. The decision to pardon a player must be messaged to the Moderator before the day phase ends. You cannot pardon yourself.
 
-## Hunter
+## Revenger
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
@@ -431,7 +442,7 @@ What would a village be without an Idiot? You don't know it, but you are loathed
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player. That player is protected (like the [Bodyguard](#bodyguard)), but the "protected" player is also prevented from taking any night-time action (like the [Harlot](#harlot)).
+Each night, you may choose a player. That player is protected (like the [Bodyguard](#bodyguard)), but the "protected" player is also prevented from taking any night-time action (like the [Debaucher](#debaucher)).
 
 ## Lamplighter
 * **TEAM:** Village
@@ -474,7 +485,7 @@ to use your power. This death cannot be prevented by ANY means.
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-You have no special powers per se, but you are part of a secret society dating back hundreds of years. Two or three of you will be in the game, and at the start the Moderator will tell you who your Masonic comrades are, and vice versa. You are NOT allowed to disclose your secret membership to the group publically but can inform other players in private.
+You have no special powers per se, but you are part of a secret society dating back hundreds of years. Two or three of you will be in the game, and at the start the Moderator will tell you who your Masonic comrades are, and vice versa. You are NOT allowed to disclose your secret membership to the group publicly but can inform other players in private.
 
 ## Medium
 * **TEAM:** Village
@@ -482,7 +493,9 @@ You have no special powers per se, but you are part of a secret society dating b
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-Once per game, you can hold a seance to speak with a dead player of your choice. Players must vote to have the seance. If a majority votes yes, and the Medium is alive, the seance occurs (whether the Medium wants it to or not). The dead player is allowed to make a statement (Moderator must approve) to the village.
+Once per game, you can hold a seance to speak with a dead player of your choice. Players must vote to have the seance. If a majority votes yes, and the Medium is alive, the seance occurs (whether the Medium wants it to or not). The dead player is allowed to make a statement (Moderator must approve) to the village. The dead player must make a statement in the form of either
+"you should trust player"
+"you should not trust player"
 
 ## Misfit
 * **TEAM:** Village
@@ -566,6 +579,14 @@ Offsetting this power is the fact that if you're killed - by any means - the ent
 
 Due to the nature of the role, your identity will always be revealed upon your death
 
+## Reporter
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Good
+* **NIGHT ACTIVITY:** No
+
+You are the used to the comings and goings of your fellow village-folk. As such, you notice when any of the patterns change. Every night (including night 0) you are told how many players switched roles that night. This includes dopplegeganger, drunk, shapeshifter, gray wolf conversion and vampire conversion. 
+
 ## Professor
 * **TEAM:** Village
 * **RACE:** Human
@@ -599,7 +620,7 @@ will NOT be told their alignment or role. After being told this, you will have t
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-An expert in forensics, you have the ability to determine the cause of death - Wolf attack, blood loss ([Vampire](#vampire) attack), poison ([Witch](#witch) attack), strangling ([Zombie](#zombie) attack), shooting (hunter), burning (the devil), devouring (chupacabra) or stabbing (other human-based attack) - of any deceased character. Once the kill occurs, you immediately make the determination. This ability can give the village a tremendous amount of information - provided you remain alive, of course! 
+An expert in forensics, you have the ability to determine the cause of death - Wolf attack, blood loss ([Vampire](#vampire) attack), poison ([Witch](#witch) attack), strangling ([Zombie](#zombie) attack), shooting ([Revenger](#revenger)), burning ([Devil](#devil)), devouring ([Chupacabra](#chupacabra)) or stabbing (other human-based attack) - of any deceased character. Once the kill occurs, you immediately make the determination. This ability can give the village a tremendous amount of information - provided you remain alive, of course! 
 
 **Note** that the [Lunatic's](#lunatic) night attack is seen by you as a Wolf attack, even though it was actually committed by a human.
 
@@ -794,7 +815,7 @@ You begin the game as a standard [Villager](#villager), with no special powers. 
 # Wolf Team (Pack hunters)
 
 A number of abilities refer to the phrase "Werewolf Kill"  
-For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role abilitiy does not count as a werewolf kill for the lunatic,  dark wolf, etc. 
+For the purposes of all abilities (not wolfsbane), this refers to "The kill made by the pack-hunters as a group". A kill made by a Werewolf player based on their unique role ability does not count as a werewolf kill for the lunatic,  dark wolf, etc. 
 
 
 
@@ -851,7 +872,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on t
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter. The transformed player now has the gneric [Werewolf](#werewolf) role, and loses their previous role. This includes team  and alignment. This transformation does not count as a kill for the purposes of any effects. 
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter. The transformed player now has the generic [Werewolf](#werewolf) role, and loses their previous role. This includes team  and alignment. This transformation does not count as a kill for the purposes of any effects. 
 
 ## Executioner Wolf
 * **TEAM:** Werewolf
@@ -966,7 +987,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. However, you 
 * **NIGHT ACTIVITY:** No
 
 You are a human who fights for your new werewolf overlords. 
-You have a once per game ability that can only be used during the day: Compose a message to the moderator "I am the butcher, and I think player 1 is role A, player 2 is role b". The moderator will tell the village you are the butcher. The moderator will evaluate every statement one by one (starting with the first statement). If the first statement is true, that player is immediately eliminated (special abilities can prevent this). If that statement is false, the moderator stops parsing and does nothing. The moderator will continue evaluating statements until you get one incorrect, or he reaches the end of your message.  
+You have a once per game ability that can only be used during the day: Compose a message to the moderator "I am the butcher, and I think player 1 is role A, player 2 is role b, etc". The moderator will tell the village you are the butcher. The moderator will evaluate every statement one by one (starting with the first statement). If the first statement is true, and the role has a race of Human, that player is immediately eliminated (special abilities can prevent this). If that statement is true, and the role has a species other than human, you and that player are eliminated, and the moderator stops reading.  If that statement is false, the moderator stops reading and does nothing. The moderator will continue evaluating statements until you get one incorrect, be correct about a nonhuman role or he reaches the end of your message.  Your message may not suspect any player of the role "villager". You can name someone as the Devil, but you cannot eliminate the devil, but will die trying. In this case, the village will learn the identity of the Devil.  
 You should post the message in one block to the mod.  Once your butcher block has been posted, you have no special powers, and just a regular human hoping for a werewolf victory.  
  You don't know who the Werewolves are, and they won't know who you are, either.
 
@@ -976,8 +997,7 @@ You should post the message in one block to the mod.  Once your butcher block ha
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** No
 
-You are a villager who possesses no special powers, but your hatred of the village elders means that you'll do anything to change the status quo. In this case, that means aligning yourself with the forces of evil and doing all you can to ensure that the Wolf team achieves victory. The trouble is, at the start of the game you won't know who your Wolf team allies are, and they
-won't know who you are, either.
+You are a villager who possesses no special powers, but your hatred of the village elders means that you'll do anything to change the status quo. In this case, that means aligning yourself with the forces of evil and doing all you can to ensure that the Wolf team achieves victory. The trouble is, at the start of the game you won't know who your Wolf team allies are, and they won't know who you are, either.
 
 
 ## Copycat
@@ -988,7 +1008,7 @@ won't know who you are, either.
 
 Each night, choose a player. The first time the Werewolves do not kill (either by choice or because they were blocked), the player you targeted IS killed. You try to emulate the Werewolf killings so it will be seen as though the player was killed by the wolves. You don't know who the Werewolves are, and they won't know who you are, either.
 
-## Harlot
+## Debaucher
 * **TEAM:** Werewolf
 * **RACE:** Human
 * **ALIGNMENT:** Evil
@@ -1112,7 +1132,8 @@ You are a villager with no special powers, but even though you are Human and Goo
 You and your fellow Vampires are another faction aiming to take over the village. Like the werewolf Pack Hunters, you'll confer each evening with your fellow Vampires and target a player to be killed. The first night of the game, the Moderator will tell you the identities of your fellow Vampires. 
 When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 human hours into the 48 hour cycle) of that day, at which point they are eliminated. 
 
-Each Vampire has a one use per game ability called "conversion":  Inform the moderator you are using your ability. If the vampire's target for the evening would be killed, their role is now neophyte vampire. If the vampire's target was a vampire hunter, you are eliminated. 
+Each Vampire has a one use per game ability called "conversion":  Inform the moderator you are using your ability. If the vampires' target for the evening would be killed and their race is human, their role is now neophyte vampire. They will be told of this following night (so they will spend one day with their previous role, not knowing they are about to become a vampire) If the vampires' target was a vampire hunter, you are eliminated. If the targets race is non-human, they are eliminated as per usual blood loss, but your ability still counts as having been used.  
+If the target of conversion's role would change or does change before they would be told they are a vampire, they still become a neophyte vampire! Such is the power of vampirism. 
 
 Your team's victory conditions are identical to those of the Wolf team with one exception:
 If there is a vampire hunter alive in the village, the vampires cannot win. 
@@ -1123,11 +1144,18 @@ If there is a vampire hunter alive in the village, the vampires cannot win.
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 You and your fellow Vampires are another faction aiming to take over the village. Like the werewolf Pack Hunters, you'll confer each evening with your fellow Vampires and target a player to be killed. The first night of the game, the Moderator will tell you the identities of your fellow Vampires. 
-When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 human hours into the 48 hour cycle) of that day, at which point they are eliminated. Their votes will stand, and cannot be changed at that point. 
+When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 real time human hours into the 48 hour cycle) of that day, at which point they are eliminated. Their votes will stand, and cannot be changed at that point. 
 You cannot convert other players to the vampire cause. 
 Your team's victory conditions are identical to those of the Wolf team with one exception:
 If there is a vampire hunter alive in the village, the vampires cannot win.
 
+## Renfield
+* **TEAM:** Vampire
+* **RACE:** Human
+* **ALIGNMENT:** Evil
+* **NIGHT ACTIVITY:** No
+You are a friend to the vampires, and want them to take over the village. You have no special powers, but you win if the vampires win. 
+At the beginning of the game you will be told who the vampires are, and they will be told who you are. 
 
 ## Chupacabra
 * **TEAM:** Chupacabra
@@ -1136,9 +1164,9 @@ If there is a vampire hunter alive in the village, the vampires cannot win.
 * **NIGHT ACTIVITY:** Yes
 
 You are hungry. Werewolves are tasty, Villagers and Vampires, less so. Each night you pick another player. If that player is a werewolf they are eliminated. If that player is not a werewolf, nothing occurs.
-If no players remain with the race of werewol, every night you choose  a player and that player is eliminated. 
+If no players remain with the race of werewolf, every night you choose a player and that player is eliminated. 
 You win if you are the last player, or if you have a lover, you and your lover are the last player (see hoodlum win condition). 
-If your lover is a werewolf, and you target them at night they are converted into "lovestruck werewolf" and you are converted into "lovestruck chupacabra"
+If your lover is a werewolf, on the second night, they are converted into "lovestruck werewolf" and you are converted into "lovestruck chupacabra"
 
 ## Lovestruck Chupacabra
 * **TEAM:** Chupacabra Lovers
@@ -1156,7 +1184,7 @@ You and your lover win if you are the last two players remaining.  You wake up e
 * **NIGHT ACTIVITY:** Yes
 
 The only way you can live in this world is for both of you to be the last two standing. 
-You and your lover win if you are the last two players remaining.   You have abandoned the other pack huneters: You wake up every night and hunt seperately, choosing a player to eliminate. Of course, you and your pack still remember who each other are. 
+You and your lover win if you are the last two players remaining.   You have abandoned the other pack hunters: You wake up every night and hunt separately, choosing a player to eliminate. Of course, you and your pack still remember who each other are.
 
 
 ## Devil
@@ -1166,7 +1194,7 @@ You and your lover win if you are the last two players remaining.   You have aba
 * **NIGHT ACTIVITY:** Sometimes
 
 You are alone, and you wish to destroy the village. You start the game doing nothing at night, but are invulnerable from all sources at night. If anyone picks you for any ability at night, they are eliminated and no other effect or mechanic can prevent this.
-You may be eliminated during the day by the village using voting roles. If you would be eliminated during the day for a reason not a vote (see hunter) you are not eliminated, but the entire village witnesses this and know you are the devil. 
+You may be eliminated during the day by the village using voting rules (the daily execution). If you would be eliminated during the day for a reason not a vote (see Revenger) you are not eliminated, but the entire village witnesses this and know you are the devil. 
 If you are alive no other team may Win. 
 When all other night killers (werewolves, vampires, hoodlum, chupacabra) have been removed you eliminate one player each night (this elimination can be prevented by normal mechanics). You win if you are the last player, or if you have a lover, you and your lover are the last player (see hoodlum win condition).
 
@@ -1178,22 +1206,22 @@ The possessor of the Amulet of Protection will be magically spared from death by
 
 ## Aura Stone
 
-The possessor of an Aura Stone may use it once at night (including the night 0 that sometimes happens at the same time as day 1) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "human". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
+The possessor of an Aura Stone may use it once at night (including the night 0) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "human". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
 
 ## Cursed Amulet
-While you possess the Cursed Amulet, your night powers, whatever they are, are inactive (if you are the [seer](#seer) you do not get a scan, if you are a pack-hunter, the pack communicates and eliminates without you while you have the amulet. It is not possible to destroy the Cursed Amulet.  It is possible to give Cursed Amulet to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the Cursed Amulet who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed amulet. It is not possible to give away the cursed amulet on the same phase(day phase or night phase) it is received. 
+While you possess the Cursed Amulet, your night powers, whatever they are, are inactive (if you are the [seer](#seer) you do not get a scan, if you are a pack-hunter, the pack communicates and eliminates without you while you have the amulet.) It is not possible to destroy the Cursed Amulet.  It is possible to give Cursed Amulet to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the Cursed Amulet who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed amulet. It is not possible to give away the cursed amulet on the same phase(day phase or night phase) it is received. 
 
 ## Cursed Hat
-While you possess the Cursed Hat, your vote for or against elimination doesn't count towards the vote total. The hat is just too ugly. You, however, think the hat is awesome, and any effects that require or prevent you from voting a certain way will still trigger. 
+While you possess the Cursed Hat, your vote for or against elimination doesn't count towards the vote total. The hat is just too ugly. You, however, think the hat is awesome, and any effects that require or prevent you from voting a certain way will still trigger (Paranoid, Coward, etc). 
 It is not possible to destroy the Cursed Hat.  It is possible to give Cursed Hat to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Hat to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the cursed hat who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed hat. It is not possible to give away the cursed hat on the same phase (day phase or night phase) it is received. 
 
 ## Coffee
 
-The possessor of the Coffee may use it to restore a once-per-game ability to themselves. The Moderator will inform the Coffee owner of their special status at the start of the game. It is possible to give Coffee to other players. If you want to do this, let the Moderator know who you want to give the Coffee to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the coffe who gave it to them. If you do this at night, the recipient will not know the previous owner of the coffee. The coffee may be traded on the same day or night it is received. 
+The possessor of the Coffee may use it to restore a once-per-game ability to themselves. The Moderator will inform the Coffee owner of their special status at the start of the game. It is possible to give Coffee to other players. If you want to do this, let the Moderator know who you want to give the Coffee to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the coffee who gave it to them. If you do this at night, the recipient will not know the previous owner of the coffee. The coffee may be traded on the same day or night it is received. 
 
-## Crsyal Ball
+## Crystal Ball
 
-The possessor of a Crystall Ball may use it at night (including the night 0 that  sometimes happens at the same time as day 1) to pick 3 other players. If any of those players race other than human, the ball reveals "non-human". If all are human, the ball reveals "human". The ball cannot be traded, and once used crumbles to dust. If the ball is used after the 2nd night, it can only target two players, rather than three.
+The possessor of a Crystal Ball may use it at night (including night 0) to pick 3 other players. If any of those players have a race other than human, the ball reveals "non-human". If all are human, the ball reveals "human". The ball cannot be traded, and once used crumbles to dust. If the ball is used after the 2nd night, it only target two players, rather than three.
 
 
 ## Wolfsbane
