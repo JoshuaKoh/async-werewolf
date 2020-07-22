@@ -29,6 +29,7 @@ title: Async Werewolf - Roles
   - [Clairvoyant](#clairvoyant)
   - [Coward](#coward)
   - [Cupid](#cupid)
+  - [Curmudgeon](#curmudgeon)
   - [Disciple](#disciple)
   - [Friendly Neighbor](#friendly-neighbor)
   - [Diseased](#diseased)
@@ -36,6 +37,7 @@ title: Async Werewolf - Roles
   - [Gossip](#gossip)
   - [Graffiti Artist](#graffiti-artist)
   - [Grave Digger](#grave-digger)
+  - [Grave Robber](#grave-robber)
   - [Executioner](#executioner)
   - [Revenger](#revenger)
   - [Idiot](#idiot)
@@ -65,6 +67,7 @@ title: Async Werewolf - Roles
   - [Shaman](#shaman)
   - [Silversmith](#silversmith)
   - [Spellcaster](#spellcaster)
+  - [Taxidermist](#taxidermist)
   - [Thief](#thief)
   - [Tough Villager](#tough-villager)
   - [Town Crier](#town-crier)
@@ -108,6 +111,7 @@ title: Async Werewolf - Roles
   - [Lunatic](#lunatic)
   - [Minion](#minion)
   - [Saboteur](#saboteur)
+  - [Silencer](#silencer)
   - [Sorcerer](#sorcerer)
   - [Provocateur](#provocateur)
   - [Spy](#spy)
@@ -119,6 +123,7 @@ title: Async Werewolf - Roles
   - [Tanner](#tanner)
   - [Vampire](#vampire)
   - [Neophyte Vampire](#neophyte-vampire)
+  - [Renfield](#renfield)
   - [Chupacabra](#chupacabra)
   - [Lovestruck Chupacabra](#lovestruck-chupacabra)
   - [Lovestruck Werewolf](#lovestruck-werewolf)
@@ -412,6 +417,17 @@ Each night, you may choose a player. The next morning, the entire town will be n
 
 Each night, you may select a DEAD player to learn if they were active that night. You do not know if they are good or evil.
 
+
+
+## Grave Robber
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Starts as Good
+* **NIGHT ACTIVITY:** Yes
+
+Once per game, at night, you may select a DEAD player and you gain their role. This new role will replace your Race, Team and Alignment. If a player had multiple roles, you gain the role they possessed when they were eliminated If for some reason you are blocked, this ability can be used.  
+
+
 ## Executioner
 * **TEAM:** Village
 * **RACE:** Human
@@ -585,7 +601,7 @@ Due to the nature of the role, your identity will always be revealed upon your d
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-You are the used to the comings and goings of your fellow village-folk. As such, you notice when any of the patterns change. Every night (including night 0) you are told how many players switched roles that night. This includes dopplegeganger, drunk, shapeshifter, gray wolf conversion and vampire conversion. 
+You are the used to the comings and goings of your fellow village-folk. As such, you notice when any of the patterns change. Every night (including night 0) you are told how many players switched roles that night. This includes dopplegeganger, drunk, shapeshifter, gray wolf conversion and vampire conversion, among others. This also includes adding a template (like lovers to an existing role) 
 
 ## Professor
 * **TEAM:** Village
@@ -665,7 +681,20 @@ If for some reason you have either wolfsbane or an amulet of protection (see ite
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-At night, you may choose to learn any player's role. If you choose a [Werewolf](#werewolf), you are killed by them (in addition to their normal kill). A [Bodyguard](#bodyguard) (or similar protection) may prevent you from being killed in this way.
+At night, you may choose to learn any player's role. If you choose a [Werewolf](#werewolf), you are killed by them (in addition to their normal kill). A [Bodyguard](#bodyguard) (or similar protection) may prevent you from being killed in 
+this way.
+
+
+## Taxidermist
+* **TEAM:** Varies
+* **RACE:** Human
+* **ALIGNMENT:** Varies
+* **NIGHT ACTIVITY:** Yes
+
+At the beginning of the game, the moderator will tell you which Team you are playing with. This may change your alignment. 
+Once per game, during a day or night phase, you may elect to use your power.
+At the end of the phase, after all eliminations are known, but before the village is told anything, you will be told which players are going to be eliminated. You must choose one of those players, and their Role (including Race) will be changed for all game effects to a random role. This can change what the grave digger learns, or what the shapeshifter, doppleganger, or grave robber transform into. 
+If you use this power during the day, the village will be told a taxidermist acted, but not your identity. If you use this during the night phase, the village will know nothing. 
 
 ## Thief
 * **TEAM:** Village
