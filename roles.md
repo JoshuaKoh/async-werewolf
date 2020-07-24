@@ -476,7 +476,9 @@ In addition, once per game during the day, you may choose to learn the role of y
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen by the [Seer](#seer) as a wolf in an initial scanning. Subsequent scans will correctly reveal that you are in fact NOT a wolf.
+You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen by the [Seer](#seer) as a wolf in an initial scanning, or by a crystal ball. Subsequent scans will correctly reveal that you are in fact NOT a wolf. If you are scanned by more than one source in the same phase, only one of those scans (randomly) will be incorrect. 
+In a game with items, you may begin with an item. 
+
 
 ## Magician
 * **TEAM:** Village
@@ -484,7 +486,7 @@ You are an ordinary member of the village who has been cursed by fate. Because o
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-You have the ability to detect the race (Human or Wolf) of any deceased character. Your power is PASSIVE and AUTOMATIC. As long as you remain alive, after each death in the game the Moderator will automatically inform the village of the race of the deceased.
+You have the ability to detect the race (Human, Wolf, ETC) of any deceased character. Your power is PASSIVE and AUTOMATIC. As long as you remain alive, after each death in the game the Moderator will automatically inform the village of the race of the deceased.
 
 ## Martyr
 * **TEAM:** Village
@@ -1180,6 +1182,7 @@ If there is a vampire hunter alive in the village, the vampires cannot win.
 * **RACE:** Vampire
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+
 You and your fellow Vampires are another faction aiming to take over the village. Like the werewolf Pack Hunters, you'll confer each evening with your fellow Vampires and target a player to be killed. The first night of the game, the Moderator will tell you the identities of your fellow Vampires. 
 When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 real time human hours into the 48 hour cycle) of that day, at which point they are eliminated. Their votes will stand, and cannot be changed at that point. 
 You cannot convert other players to the vampire cause. 
@@ -1191,6 +1194,7 @@ If there is a vampire hunter alive in the village, the vampires cannot win.
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** No
+
 You are a friend to the vampires, and want them to take over the village. You have no special powers, but you win if the vampires win. 
 At the beginning of the game you will be told who the vampires are, and they will be told who you are. 
 
