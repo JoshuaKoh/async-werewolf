@@ -1247,7 +1247,7 @@ The possessor of the Amulet of Protection will be magically spared from death by
 
 ## Aura Stone
 
-The possessor of an Aura Stone may use it once at night (including the night 0) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "human". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
+The possessor of an Aura Stone may use it once at night (including the night 0) to pick 3 other players. If any of those players have an evil alignment, the ball reveals "evil". If all are good, the ball reveals "good". The stone cannot be traded, and once used crumbles to dust. If the stone is used after the 2nd night, it can only target two players, rather than three. 
 
 ## Cursed Amulet
 While you possess the Cursed Amulet, your night powers, whatever they are, are inactive (if you are the [seer](#seer) you do not get a scan, if you are a pack-hunter, the pack communicates and eliminates without you while you have the amulet.) It is not possible to destroy the Cursed Amulet.  It is possible to give Cursed Amulet to other players, and they may not refuse this gift . If you want to do this, let the Moderator know who you want to give the Cursed Amulet to. You may do this at day or night. If you do this during the day, the moderator will inform the recipient of the Cursed Amulet who gave it to them. If you do this at night, the recipient will not know the previous owner of the cursed amulet. It is not possible to give away the cursed amulet on the same phase(day phase or night phase) it is received. 
