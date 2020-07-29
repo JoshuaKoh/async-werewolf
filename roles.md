@@ -1148,7 +1148,7 @@ Note: If you have a [Lover](#lover) and you and your Lover are the sole survivor
 * **NIGHT ACTIVITY:** No
 
 You are a villager with no special powers, but even though you are Human and Good, you have no team affiliation. However, there are two Tailors in the village and your village can only economically sustain one. The first night, the Moderator will tell you the name of the other Tailor. In order to win, your rival Tailor must be executed and you must vote to execute them.
-
+* If you achieve your game win condition, the game does not end *
 * If your rival dies for reasons other than execution during the day, then you become an ordinary villager with the same goals and win conditions as the village.
 * If you are killed and your rival is alive, then you lose.
 * If both you and your rival are alive at the end of the game, then you lose.
@@ -1174,7 +1174,7 @@ When a player is eliminated by the vampires, bloodloss takes time. They wake up 
 Each Vampire has a one use per game ability called "conversion":  Inform the moderator you are using your ability. If the vampires' target for the evening would be killed and their race is human, their role is now neophyte vampire. They will be told of this following night (so they will spend one day with their previous role, not knowing they are about to become a vampire) If the vampires' target was a vampire hunter, you are eliminated. If the targets race is non-human, they are eliminated as per usual blood loss, but your ability still counts as having been used.  
 If the target of conversion's role would change or does change before they would be told they are a vampire, they still become a neophyte vampire! Such is the power of vampirism. 
 
-Your team's victory conditions are identical to those of the Wolf team with one exception:
+Your team's victory conditions are identical to those of the Wolf team (number of vampires = number of good humans) with one exception: 
 If there is a vampire hunter alive in the village, the vampires cannot win. 
 
 ##  Neophyte Vampire
@@ -1206,7 +1206,7 @@ At the beginning of the game you will be told who the vampires are, and they wil
 
 You are hungry. Werewolves are tasty, Villagers and Vampires, less so. Each night you pick another player. If that player is a werewolf they are eliminated. If that player is not a werewolf, nothing occurs.
 If no players remain with the race of werewolf, every night you choose a player and that player is eliminated. 
-You win if you are the last player, or if you have a lover, you and your lover are the last player (see hoodlum win condition). 
+You win if you are the last player, or if you have a lover, you and your lover are the last player (see hoodlum win condition). Like the hoodlum, no other team may win while you are alive(cult leader is an exception to this rule). 
 If your lover is a werewolf, on the second night, they are converted into "lovestruck werewolf" and you are converted into "lovestruck chupacabra"
 
 ## Lovestruck Chupacabra
