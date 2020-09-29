@@ -434,7 +434,7 @@ Once per game, at night, you may select a DEAD player and you gain their role. T
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** No
 
-Once per game, you may pardon one player from being executed. The decision to pardon a player must be messaged to the Moderator before the day phase ends. You cannot pardon yourself.
+Once per game, you may pardon one player from being executed. The decision to pardon a player must be messaged to the Moderator before the day phase ends. You cannot pardon yourself. If this is a game with multiple villages, the pardoned player is instead exiled to the other village. 
 
 ## Revenger
 * **TEAM:** Village
@@ -737,6 +737,9 @@ Each night, you may choose a player and learn who, if anybody, that player targe
 * **NIGHT ACTIVITY:** Yes
 
 Each night, you may choose to leave town. You are back in time to participate in the next game day. On nights that you leave town, you are immune to all night actions targeting them, including kills and scans. You may not choose to leave town two nights in a row.
+If you are playing in a game with two villages, your role works completely differently. 
+Each night you may switch which village you are in. You will travel from your "old village" to your "new village" If you inform the moderator of this BEFORE the EXECUTION Vote, the moderator will announce that you have left town at the beginning of the night phase, and you will be in the "new village" for all purposes of being targeted. 
+If you inform the moderator of this DURING the NIGHT phase, the moderator will announce nothing, and you will be in the "old village" for all puposes of being targeted, but the next morning you will be in the new village. 
 
 ## Troublemaker
 * **TEAM:** Village
@@ -911,7 +914,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one 
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
 
-You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the [Village Executioner](#executioner). Once per game, you may pardon one player from being executed. The decision to pardon a player must be messaged to the Moderator before the day phase ends. You cannot pardon yourself.
+You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the [Village Executioner](#executioner). Once per game, you may pardon one player from being executed. The decision to pardon a player must be messaged to the Moderator before the day phase ends. You cannot pardon yourself. In a game with multiple villages, the pardoned player goes to the other village. 
 
 
 
