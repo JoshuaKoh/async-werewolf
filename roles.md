@@ -368,7 +368,7 @@ If you vote for your Best Friend to be executed - *regardless of whether or not 
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player. That player will be notified by the Moderator that you are the Friendly Neighbor.
+Each night, you may choose a player. That player will be notified by the Moderator that you are the Friendly Neighbor. You do not act on night 0. 
 
 ## Diseased
 * **TEAM:** Village
@@ -406,7 +406,7 @@ On the third night, you will tell the Moderator the names of two living players.
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
 
-Each night, you may choose a player. The next morning, the entire town will be notified that that player's house has been defaced.
+Each night, you may choose a player. The next morning, the entire town will be notified that that player's house has been defaced. You may choose yourself. 
 
 
 ## Grave Digger
@@ -1237,7 +1237,7 @@ You and your lover win if you are the last two players remaining.   You have aba
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Sometimes
 
-You are alone, and you wish to destroy the village. You start the game doing nothing at night, but are invulnerable from all sources at night. If anyone picks you for any ability at night, they are eliminated and no other effect or mechanic can prevent this.
+You are alone, and you wish to destroy the village. You start the game doing nothing at night, but are invulnerable from all sources at night. If anyone picks you for any ability at night, they are eliminated and no other effect or mechanic can prevent this. Being targeted by an item does not count for this purpose. 
 You may be eliminated during the day by the village using voting rules (the daily execution). If you would be eliminated during the day for a reason not a vote (see Revenger) you are not eliminated, but the entire village witnesses this and know you are the devil. 
 If you are alive no other team may Win. 
 When all other night killers (werewolves, vampires, hoodlum, chupacabra) have been removed you eliminate one player each night (this elimination can be prevented by normal mechanics). You win if you are the last player, or if you have a lover, you and your lover are the last player (see hoodlum win condition).
