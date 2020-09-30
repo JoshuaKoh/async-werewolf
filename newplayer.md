@@ -18,7 +18,7 @@ title: Async Werewolf - Roles
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Welcome to Werewolf
-Werewolf, somtimes called [mafia] (https://en.wikipedia.org/wiki/Mafia_(party_game)) is famous party game. 
+Werewolf, somtimes called [mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) is famous party game. 
 It's played many different ways including a one-night varient. This is the "traditional" iterated format, played over a longer period of time. 
 
 # The core mechanics
