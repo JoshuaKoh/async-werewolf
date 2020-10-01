@@ -21,13 +21,14 @@ title: Async Werewolf - Roles
 Werewolf, somtimes called [mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) is famous party game. 
 It's played many different ways including a one-night varient. This is the "traditional" iterated format, played over a longer period of time. 
 
+
 # The core mechanics
 ## Information vs Numbers
 The Werewolves will almost always have more information. The village will have the numbers.  As a [game](/examplegame) progresses, both sides lose players, but gain more information in that process. 
 
 ## Reads vs Claims
 These are two common styles of play in online mafia/werewolf communities. 
-Reads refers to "I think this person is a wolf because they are acting suspicious", and being right. It's a very common playstle in in person games because most people can detect people who are stressed (being a werewolf and not being able to admit it is stressful)
+Reads refers to "I think this person is a wolf because they are acting suspicious", and being right. It's a very common playstyle in in person games because most people can detect people who are stressed (being a werewolf and not being able to admit it is stressful).
 Claims refers to the acting of [claiming](https://epicmafia.fandom.com/wiki/Claim) a role, and using logic and information to point out logical fallacies. 
 Both are valid styles of play. 
 
@@ -35,10 +36,10 @@ Both are valid styles of play.
 
 ##  As a villager
 The villager is the most important role in werewolf. On average, you will spend more time as a villager than any other role. 
-Your job is to gather information. You can do this by seeing who votes for what. You can do this by 
-Your job is evaluate information. See reads vs claims above. A villager who notices a contradiction in someones claim to be a role ( If you were this role, why didn't x happen), can often win the game for their team. 
+Your job is to gather information. You can do this by seeing who votes for what.
+Your job is also to evaluate information. See reads vs claims above. A villager who notices a contradiction in someone's claim to be a role ("If you were this role, why didn't x happen?"), can often win the game for their team. 
 
-Closed games recreate standard play by post forum experience: there is a single chat channel or message board for the game, and all game related chat must occur there. There are seperate, moderator created chat channels for any players who are allowed to communicate secretly. 
+Closed games recreate standard play experience by forum posts: there is a single chat channel or message board for the game, and all game related chat must occur there. There are seperate, moderator-created chat channels for any players who are allowed to communicate secretly. 
 
 A note on communication/contribution: In large games, eliminating players that are not contributing is a viable strategy. Werewolves will generally vote to eliminate a player that they know is a villager (werewolves know who all the non werewolves are), so voting to eliminate someone that you think will provide the most value to the team with the votes about their elimination is valid. 
 
