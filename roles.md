@@ -205,6 +205,7 @@ You start the game thinking you're just another [Villager](#villager) with no sp
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 You just might be the most powerful member of the Village team. Each night, you'll pick a player to scan. The Moderator will then tell you if that player is a wolf or not. Your power is tempered somewhat by the following caveats:
 
@@ -220,7 +221,8 @@ You just might be the most powerful member of the Village team. Each night, you'
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes (if the Seer dies)
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No (even if seer dies night 0, you'll activate night1)
 
 The Apprentice Seer will assume the role of the [Seer](#seer) if the Seer is killed. Until that point, you are a standard Villager with no special powers. The Moderator will notify you when the Seer is killed. The Sorcerer will see you as the Seer only after you have assumed that role.
 
@@ -229,6 +231,7 @@ The Apprentice Seer will assume the role of the [Seer](#seer) if the Seer is kil
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a target to scan like a [Seer](#seer). However, you always get incorrect scan results. You believe yourself to be a normal Seer.
 
@@ -237,6 +240,7 @@ Each night, you may choose a target to scan like a [Seer](#seer). However, you a
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a target to scan like a [Seer](#seer). However, you will always get "innocent" results, regardless of who is investigated. You believe yourself to be a normal Seer.
 
@@ -245,6 +249,7 @@ Each night, you may choose a target to scan like a [Seer](#seer). However, you w
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a target to scan like a [Seer](#seer). However, you will always get "guilty" results, regardless of who is investigated. You believe yourself to be a normal Seer.
 
@@ -253,6 +258,7 @@ Each night, you may choose a target to scan like a [Seer](#seer). However, you w
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player, and ALL attempts to kill that player (except for suicide - see below) will fail.
 
@@ -269,6 +275,7 @@ In addition:
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You may protect a player each night (like the [Bodyguard](#bodyguard)) but if you target an active member of the wolf team to protect, YOU are killed. Your death is reported as a normal werewolf kill. You think that you are a regular Bodyguard.
 
@@ -277,6 +284,7 @@ You may protect a player each night (like the [Bodyguard](#bodyguard)) but if yo
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You may protect a player each night (like the [Bodyguard](#bodyguard)) but if the wolves target your protection target, then YOU die instead. You think that you are a regular Bodyguard.
 
@@ -285,6 +293,7 @@ You may protect a player each night (like the [Bodyguard](#bodyguard)) but if th
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player to protect, like the [Bodyguard](#bodyguard). However, the "protected" player is also prevented from taking any nighttime action (like the Debaucher). You think that you are a regular Bodyguard.
 
@@ -301,6 +310,7 @@ At the start of the game, choose another player. If you are executed that Player
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a player. The Moderator will tell you if the chosen player has a role with special powers (See: [Seer](#seer)) 
 
@@ -319,6 +329,7 @@ When you choose to have your vote count double and you end up successfully execu
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a player. The Moderator will tell you that player's alignment: Good or Evil.
 
@@ -356,7 +367,8 @@ No one in the village likes you. Despite being on the good side, and winning if 
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes*
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No*
 
 At the start of the game, you'll pick another player to be your Best Friend. That player will NOT be informed of this development. If your Best Friend is killed by any means, you'll become so enraged that you'll kill another player immediately. Obviously, if this happens during the day, the entire village will witness the act.
 
@@ -367,6 +379,7 @@ If you vote for your Best Friend to be executed - *regardless of whether or not 
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player. That player will be notified by the Moderator that you are the Friendly Neighbor. You do not act on night 0. 
 
@@ -387,6 +400,7 @@ It is very possible that the best thing you can do for your team is make yoursel
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may select a player that you think will not survive the night. If you are right, your next vote during the day will count double.
 
@@ -396,7 +410,8 @@ Each night, you may select a player that you think will not survive the night. I
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes (Once)
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No 
 
 On the third night, you will tell the Moderator the names of two living players. The Moderator will tell you one of their roles, but not who the player is that owns the role.
 
@@ -405,6 +420,7 @@ On the third night, you will tell the Moderator the names of two living players.
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player. The next morning, the entire town will be notified that that player's house has been defaced. You may choose yourself. 
 
@@ -414,6 +430,7 @@ Each night, you may choose a player. The next morning, the entire town will be n
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may select a DEAD player to learn if they were active that night. You do not know if they are good or evil.
 
@@ -424,6 +441,7 @@ Each night, you may select a DEAD player to learn if they were active that night
 * **RACE:** Human
 * **ALIGNMENT:** Starts as Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Once per game, at night, you may select a DEAD player and you gain their role. This new role will replace your Race, Team and Alignment. If a player had multiple roles, you gain the role they possessed when they were eliminated If for some reason you are blocked, this ability can be used.  
 
@@ -441,6 +459,7 @@ Once per game, you may pardon one player from being executed. The decision to pa
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Just before you're killed - by any means - you'll be able to commit one final act of defiance by launching your own attack against any other player in the game. You also have the option of NOT attacking. The decision to attack and the choice of target must happen quickly, and no conferring is allowed. Typically, the Moderator will take you aside, inform you that you're about to be killed, and you'll have several seconds to make a choice. If you take too much time, you'll waive the right to make your retaliatory attack!
 
@@ -448,7 +467,7 @@ Just before you're killed - by any means - you'll be able to commit one final ac
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes
+* **NIGHT ACTIVITY:** No
 
 What would a village be without an Idiot? You don't know it, but you are loathed by your fellow villagers. In fact, you think you're just another Villager. If you are involved in a tie for execution, there is no tiebreaking procedure. Instead, your fellow villagers will take advantage of this chance to rid themselves of you, and you will be executed!
 
@@ -457,6 +476,7 @@ What would a village be without an Idiot? You don't know it, but you are loathed
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player. That player is protected (like the [Bodyguard](#bodyguard)), but the "protected" player is also prevented from taking any night-time action (like the [Debaucher](#debaucher)).
 
@@ -465,6 +485,7 @@ Each night, you may choose a player. That player is protected (like the [Bodygua
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player. The Moderator will tell you if that player was active that night.
 
@@ -475,6 +496,7 @@ In addition, once per game during the day, you may choose to learn the role of y
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen by the [Seer](#seer) as a wolf in an initial scanning, or by a crystal ball. Subsequent scans will correctly reveal that you are in fact NOT a wolf. If you are scanned by more than one source in the same phase, all of those scans will be incorrect, but subsequent scans will be correct. 
 In a game with items, you may begin with an item. 
@@ -520,6 +542,7 @@ Once per game, you can hold a seance to speak with a dead player of your choice.
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player. The Moderator will show you a role belonging to a different random living player (other than yourself).
 
@@ -530,6 +553,7 @@ Each night, you may choose a player. The Moderator will show you a role belongin
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you must pick a player to place a pox on. That player will become so ill that they will not be able to get out of bed the following day, and thus will not be able to vote. Talking and other forms of communication are still allowed. The poxed player will recover during the following night phase, so that only one vote is missed. Being poxed will not alter a player's ability to perform a night action.
 
@@ -566,6 +590,7 @@ When a player is eliminated by the village, you must have voted to eliminate the
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a player and you are informed by the Moderator if that player is the [Minion](#minion) or the [Lunatic](#lunatic). The Partisan has no additional special powers, but the Minion and Lunatic are powerful allies of the Wolf team.
 
@@ -610,8 +635,9 @@ You are the used to the comings and goings of your fellow village-folk. As such,
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
-At the end of each night, you are told how many [Werewolves](#werewolf) OR [Vampires](#vampire) (not both) are left. The number of werewolves given will be the number of Pack Hunters that contribute to the night attack.
+At the end of each night, you are told how many [Werewolves](#werewolf) OR [Vampires](#vampire) (not both) are left. The number of werewolves given will be the number of Pack Hunters, but does not include non pack hunter werewolf allies.
 
 ## Psychic
 * **TEAM:** Village
@@ -627,7 +653,8 @@ Choose 1, either: Learn two additional roles of random living players (so you wi
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes (Once)
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No (Once)
 
 You are a deeply caring individual on the village team. Each night, after all other night actions are resolved, you will be told who is dying that night. You
 will NOT be told their alignment or role. After being told this, you will have the option of dying in that person's place. That person will not be told you saved them, and they will not even know they were on death's door. Your cause of death will be identical to the person you saved. This death is viewed as a suicide and cannot be prevented by any means. A role blocker can stop you from sacrificing yourself. You will be informed you were blocked.
@@ -657,6 +684,7 @@ Each night, you learn how many wolf team members voted for the successful execut
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player and the Moderator will inform you if they were active that night. Players that are blocked are not considered active.
 
@@ -665,6 +693,7 @@ Each night, you may choose a player and the Moderator will inform you if they we
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player and the Moderator will inform you if that players is a [Cult](#cult-leader) member. You cannot detect if the person is a [Cult Leader](#cult-leader), and you cannot scan yourself.
 
@@ -682,6 +711,7 @@ If for some reason you have either wolfsbane or an amulet of protection (see ite
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 At night, you may choose to learn any player's role. If you choose a [Werewolf](#werewolf), you are killed by them (in addition to their normal kill). A [Bodyguard](#bodyguard) (or similar protection) may prevent you from being killed in 
 this way.
@@ -692,6 +722,7 @@ this way.
 * **RACE:** Human
 * **ALIGNMENT:** Varies
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 At the beginning of the game, the moderator will tell you which Team you are playing with. This may change your alignment. 
 Once per game, during a day or night phase, you may elect to use your power.
@@ -703,6 +734,7 @@ If you use this power during the day, the village will be told a taxidermist act
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may attempt to steal all of the items carried by another player. If the player does not have any items, then you get nothing.
 
@@ -719,14 +751,18 @@ You have a particularly strong constitution. If you are targeted for death at ni
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you learn how many players were active that night. Players who were blocked are not considered active that night. This happens automatically, but you also count as being active at night.
+A player that is under the effects of a cursed amulet is not considered active. 
+A player that chooses not to use their active ability is considered active.
 
 ## Tracker
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a player and learn who, if anybody, that player targeted the same night (but not the action the player performed).
 
@@ -735,6 +771,7 @@ Each night, you may choose a player and learn who, if anybody, that player targe
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you may choose to leave town. You are back in time to participate in the next game day. On nights that you leave town, you are immune to all night actions targeting them, including kills and scans. You may not choose to leave town two nights in a row.
 If you are playing in a game with two villages, your role works completely differently. 
@@ -745,7 +782,8 @@ If you inform the moderator of this DURING the NIGHT phase, the moderator will a
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes (Once)
+* **NIGHT ACTIVITY:** Yes(Once)
+* **ACTIVE NIGHT 0:** Yes
 
 Once per game, you can elect to "stir up trouble" the following day. When this is done, the Village executes TWO players instead of just one. You must inform the Moderator of your intentions during the night phase prior to the
 day on which the extra vote is to take place. If you happen to be killed during that night, the extra vote does NOT take place the following Day.
@@ -755,6 +793,7 @@ day on which the extra vote is to take place. If you happen to be killed during 
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are a professional killer on the side of the Village. Each night, you may elect to kill another player, or not - the kill is not mandatory.
 
@@ -763,6 +802,7 @@ You are a professional killer on the side of the Village. Each night, you may el
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a player and learn who else targeted that player that night (but not the actions that were performed). If your target is the player targeted by the wolf team, you are only given the name of the killing member of the wolf team, if this was a pack kill, you are given a random pack-hunter's name.
 
@@ -770,7 +810,8 @@ Each night, you may choose a player and learn who else targeted that player that
 * **TEAM:** Village
 * **RACE:** Human
 * **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** Yes (Once)
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No (Once)
 
 Once during the game, you are told who the victim of the wolves will be. You can choose to heal them. This is a one-time only event and you must message the Moderator during the day before to activate the power for the next night. You CAN heal yourself. Alternatively, once per game you can cast a protective spell over the whole village for a night which protects everyone from any kill.
 
@@ -843,6 +884,7 @@ You are just an ordinary [Villager](#villager) until you die. Once you are kille
 * **RACE:** Human
 * **ALIGNMENT:** Good
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You begin the game as a standard [Villager](#villager), with no special powers. This all changes, however, if you're killed by wolves. Your death is reported normally, but the following night, the Moderator will inform you that you have risen from the dead as a Zombie and must pick a player to strangle as revenge for being killed. You remain allied with the village. This process is repeated for the following two nights, for a total of three Zombie stranglings, after which you turn to dust. Once you have assumed your undead state, you must continue to act like any other dead player. No talking, voting, or other participation in village activities is allowed. Your transformation ONLY takes place as a result of a wolf attack. All other forms of death do not trigger the transformation.
 
@@ -859,6 +901,7 @@ For the purposes of all abilities (not wolfsbane), this refers to "The kill made
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the Pack Hunters on the Werewolf team. Each night you confer with your fellow Pack Hunters to choose a player to devour. Once you've decided, one of the Pack Hunters will tell the Moderator your choice. The pack hunters, and only the pack hunters (not werewolf allied humans) may communicate with each other at night. 
 
@@ -869,6 +912,7 @@ The first night of the game, the Moderator will tell you the identities of your 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional passive power: The first time you are scanned by the Seer, you will NOT be seen as a werewolf. However, subsequent Seer scans will reveal the truth, that you are in fact a werewolf.
 
@@ -879,6 +923,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the [Village Coward](#coward). You must never vote to eliminate. 
 
@@ -889,6 +934,7 @@ If your final vote for the day does not match the required vote, then you commit
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Each night, choose another Werewolf. If the Werewolves do not make a pack-hunter kill (either by choice or because they were blocked), then you kill the Werewolf you chose.
 
@@ -897,6 +943,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Each night, c
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on the 4th Night, you may attack one additional player (by yourself) per night, in addition to taking part in the normal "pack-hunter" kill. Because of this, it's in your best interest to wait until the pack has announced its target to the Moderator before selecting a target for your solo kill. Offsetting this powerful ability is an equally powerful weakness: If you are scanned by the [Seer](#seer), you will not merely be revealed as a werewolf - you will be killed! Since all night takes place simultaneously, being scanned will not negate your solo kill during that night.
 
@@ -905,6 +952,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Starting on t
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: Once per game, after the pack's target has been chosen, you may kill one of your fellow Pack Hunters, and the pack's target is transformed into a Werewolf instead of being killed. This can take the heat off of your teammates by replacing a suspicious Pack Hunter. The transformed player now has the generic [Werewolf](#werewolf) role, and loses their previous role. This includes team  and alignment. This transformation does not count as a kill for the purposes of any effects. 
 
@@ -913,6 +961,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the [Village Executioner](#executioner). Once per game, you may pardon one player from being executed. The decision to pardon a player must be messaged to the Moderator before the day phase ends. You cannot pardon yourself. In a game with multiple villages, the pardoned player goes to the other village. 
 
@@ -923,6 +972,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Despite this, your ultimate goal is to take over the village for yourself. You can only win the game if you are the sole surviving Pack Hunter AND the Wolf team emerges victorious. In order to do so, you'll need to ensure that your fellow Pack Hunters meet an untimely demise.
 
@@ -933,6 +983,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. Despite this,
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also the wolf counterpart to the Paranoid Villager. You must vote to execute the player that is eliminated each day. If your final vote for the day does not match the required vote, then you commit suicide at the end of the day. Required votes can never be None or yourself.
 
@@ -943,6 +994,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team, and are also 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one additional power: If you're executed, just before you die you'll get to kill one player who voted for you. In this respect you're like a highly effective Hunter. This power only occurs if you are eliminated to a village execution. If you are eliminated any other way, you do not have this power.
 
@@ -954,6 +1006,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You have one 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. If executed, your spirit can still speak with the Wolves, but you can't speak publicly or vote. The Restless Dead rules still apply.  If you're killed via other means, you don't have this power.
 
@@ -964,6 +1017,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. If executed, 
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. However, you are jealous of the [Alpha Wolf](#alpha-wolf) in your pack. If you are part of a vote that executes the Alpha Wolf, then you become the Alpha Wolf. If the Alpha Wolf dies in any other way, then you become a normal Werewolf. If your team wins the game and one of your pack mates is still an Alpha Wolf, then you lose the
 game.
@@ -973,6 +1027,7 @@ game.
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. At the beginning of the game, the Moderator will also tell you the identity of the [Sorcerer](#sorcerer).
 
@@ -981,6 +1036,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. At the beginn
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](/werewolf) on the Werewolf team, and are also the wolf counterpart to the [Village Campaigner](#campaigner). You are also good at gaining support for your cause. Twice per game, you may have your vote count double. Do this by telling the moderator before the end of the day.
 
@@ -991,6 +1047,7 @@ When you choose to have your vote count double and you end up successfully execu
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. If you are killed by any means, the surviving Pack Hunters become so enraged that they will kill TWO players the following night instead of just one.
 
@@ -999,6 +1056,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. If you are ki
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You are also a [Seer](#seer) (or a sub-type such as the [Paranoid Seer](#paranoid-seer)). This is useful in games where there are multiple opposing wolf packs
 
@@ -1009,6 +1067,7 @@ You are one of the [Pack Hunters](#werewolf) on the Werewolf team. You are also 
 * **RACE:** Werwolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are one of the [Pack Hunters](#werewolf) on the Werewolf team. However, you are especially weak to psychic forces. If the Seer chooses you as their target, you are killed by the psychic pressure!
 
@@ -1038,6 +1097,7 @@ You are a villager who possesses no special powers, but your hatred of the villa
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, choose a player. The first time the Werewolves do not kill (either by choice or because they were blocked), the player you targeted IS killed. You try to emulate the Werewolf killings so it will be seen as though the player was killed by the wolves. You don't know who the Werewolves are, and they won't know who you are, either.
 
@@ -1046,6 +1106,7 @@ Each night, choose a player. The first time the Werewolves do not kill (either b
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You're a human who is on the side of the Wolf team. Each night, you may choose a player to distract. Because the targeted character is occupied that night, they are blocked from performing a night action. The same player cannot be targeted two nights in a row. If the targeted player is a Pack Hunter, the pack makes no kill that night, but you'll be told that you blocked a teammate. If the targeted player is a member of the Wolf team, you'll block that player's ability, but you'll also be told that you blocked a teammate.
 
@@ -1056,6 +1117,7 @@ At the start of the game, you won't know who your Wolf team allies are, and they
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You appear to be just another Villager, but you're actually on the side of the Wolf team. Normally, you don't act at night. However, if the Wolf team's kill is somehow prevented, you'll be able to make your own attack the following night. Your attack emulates a wolf attack so convincingly that even the Scientist will think that its victim was killed by werewolves.
 
@@ -1083,6 +1145,7 @@ To the outside world you appear to be just another Villager, but you're actually
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You're a human who is on the side of the Wolf team. Each night, you may choose a player to silence.  The target will be unable to speak (no text, emotes nor reactions) in any chat, except to the moderator (they can still use any daytime abilities, if any).  The same player cannot be targeted two nights in a row. At the start of the game, you'll be told who all of the Pack Hunters are, and the Pack Hunters will be told who you are.
 
@@ -1093,6 +1156,7 @@ If you are targeted by the Silencer, the moderator will inform you that you are 
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** Yes
 
 You're a human who is working to help the Wolf team take over the village. Each Night, you may use your mystical powers to scan a player and the Moderator will tell you if your target is the Seer. If you DO locate the Seer in this fashion, you can use subsequent scan attempts to locate wolves, just like the [Seer](#seer), although in this case you're looking to find your allies, not your enemies. At the start of the game, you will not know who your Wolf team allies are, and those allies (with the exception of the [White Wolf](#white-wolf), if it's in play) won't know you, either.
 
@@ -1109,6 +1173,7 @@ To the outside world you appear to be just another Villager, but you're actually
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 Each night, you select a player. If the Werewolves choose to attack you, that player's role is revealed to the Werewolves. There is no kill that night. At the start of the game, you will not know who your Wolf team allies are, and those allies won't know you, either. The first time the Werewolves chose to attack you as part of their pack-hunter attack, they will be told you are the spy (and the identity of the player you chose that night) and you will be told who the current pack-hunters are. 
 
@@ -1117,7 +1182,8 @@ Each night, you select a player. If the Werewolves choose to attack you, that pl
 * **TEAM:** Werewolf
 * **RACE:** Human/Wolf
 * **ALIGNMENT:** Evil
-* **NIGHT ACTIVITY:** Yes (if transformed)
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No (if transformed)
 
 You start the game thinking that you're a [Betrayer](#betrayer), an ally of the Werewolf team possessing no special abilities. However, this changes in dramatic fashion if the [Alpha Wolf](#alpha-wolf) becomes the last living Pack Hunter. If this happens, you'll be transformed into a [standard Werewolf](#werewolf) starting the next night phase. At that time, you'll be told the identity of the Alpha Wolf, and vice-versa. For the purposes of the various detection roles like the Seer, you're seen as Human/Evil until after your transformation, when you're detected as Wolf/Evil.
 
@@ -1130,6 +1196,7 @@ These roles are teams unto themselves, and are working against all other teams.
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You have only one goal: to convert the entire village to "The Cause," one person (or werewolf) at a time. Each night, you'll pick one player to add to the cult. Players thus added are NOT informed of this development, nor can anything be done to prevent it. Such is the allure of The Cause that if the game progresses to the point where the all surviving players are cult members - regardless of their team affiliation - the cult wins. All former affiliations are shrugged off in the name of The Cause. If you are killed, no new admissions to the cult will occur, but your victory conditions still apply.
 
@@ -1138,6 +1205,7 @@ You have only one goal: to convert the entire village to "The Cause," one person
 * **RACE:** Human
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are a sadistic individual whose goal is to take over the village by eliminating all of your opposition. You are not affiliated with any team.
 Each night, you may choose a player to kill. Each kill advances your cause by whittling down the population. You must be eliminated in order for any other team to win the game.
@@ -1170,6 +1238,7 @@ You are a villager with no special powers, but even though you are Human and Goo
 * **RACE:** Vampire
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You and your fellow Vampires are another faction aiming to take over the village. Like the werewolf Pack Hunters, you'll confer each evening with your fellow Vampires and target a player to be killed. The first night of the game, the Moderator will tell you the identities of your fellow Vampires. 
 When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 human hours into the 48 hour cycle) of that day, at which point they are eliminated. 
@@ -1185,6 +1254,7 @@ If there is a vampire hunter alive in the village, the vampires cannot win.
 * **RACE:** Vampire
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You and your fellow Vampires are another faction aiming to take over the village. Like the werewolf Pack Hunters, you'll confer each evening with your fellow Vampires and target a player to be killed. The first night of the game, the Moderator will tell you the identities of your fellow Vampires. 
 When a player is eliminated by the vampires, bloodloss takes time. They wake up with the rest of the village the next day, and can act, vote, etc until the halfway point (24 real time human hours into the 48 hour cycle) of that day, at which point they are eliminated. Their votes will stand, and cannot be changed at that point. 
@@ -1206,6 +1276,7 @@ At the beginning of the game you will be told who the vampires are, and they wil
 * **RACE:** Chupacabra
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 You are hungry. Werewolves are tasty, Villagers and Vampires, less so. Each night you pick another player. If that player is a werewolf they are eliminated. If that player is not a werewolf, nothing occurs.
 If no players remain with the race of werewolf, every night you choose a player and that player is eliminated. 
@@ -1217,6 +1288,7 @@ If your lover is a werewolf, on the second night, they are converted into "loves
 * **RACE:** Chupacabra
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 The only way you can live in this world is for both of you to be the last two standing. 
 You and your lover win if you are the last two players remaining.  You wake up every night and pick a player not your lover. If that player is a werewolf, you eliminate them.  If they are not, nothing happens. If no werewolves remain (except for your lover), you eliminate any player. 
@@ -1226,6 +1298,7 @@ You and your lover win if you are the last two players remaining.  You wake up e
 * **RACE:** Werewolf
 * **ALIGNMENT:** Evil
 * **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
 
 The only way you can live in this world is for both of you to be the last two standing. 
 You and your lover win if you are the last two players remaining.   You have abandoned the other pack hunters: You wake up every night and hunt separately, choosing a player to eliminate. Of course, you and your pack still remember who each other are.
