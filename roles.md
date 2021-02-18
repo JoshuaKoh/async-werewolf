@@ -212,7 +212,7 @@ You just might be the most powerful member of the Village team. Each night, you'
 * The [Alpha Wolf](#alpha-wolf) (a wolf, of course) is initially seen as "not a wolf," although a second reading will yield the truth.
 * The [Lycan](#lycan) (NOT a wolf) is initially seen as a wolf, although a second reading will yield the truth.
 * All human allies of the Wolf team such as the Sorcerer, the Debaucher, etc. are seen as "not a wolf."
-* There are other races, such as [Vampire] (vampire), which you accurately but unhelpfully name as "not a wolf"
+* There are other races, such as [Vampire](#vampire), which you accurately but unhelpfully name as "not a wolf"
 * There are other types of Seer (see below) that have faulty powers
 * You'll tend to have more knowledge than any other player in the game, thus making you a prime target for the opposition.
 * It is possible for a large game to have multiple Seers. If so, each Seer will operate independently; no information will be shared and they are not made aware of each others' identities.
