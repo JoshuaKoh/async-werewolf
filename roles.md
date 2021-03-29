@@ -25,6 +25,7 @@ title: Async Werewolf - Roles
     - [Paranoid Bodyguard](#paranoid-bodyguard)
   - [Alchemist](#alchemist)
   - [Aura Seer](#aura-seer)
+  - [Barber surgeon](#barber)
   - [Campaigner](#campaigner)
   - [Clairvoyant](#clairvoyant)
   - [Coward](#coward)
@@ -61,7 +62,6 @@ title: Async Werewolf - Roles
   - [Professor](#professor)
   - [Psychic](#psychic)
   - [Saint](#saint)
-  - [Scientist](#scientist)
   - [Sensor](#sensor)
   - [Shadow](#shadow)
   - [Shaman](#shaman)
@@ -322,6 +322,18 @@ At the start of the game, choose another player. If you are executed that Player
 * **ACTIVE NIGHT 0:** Yes
 
 Each night, you may choose a player. The Moderator will tell you if the chosen player has a role with special powers (See: [Seer](#seer)) 
+
+## Barber surgeon
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Good
+* **NIGHT ACTIVITY:** No
+
+You are expert in wielding sharp blades, and everyone in the village comes to you to fix broken bones and for any surgery.  Therefore, you are able to quickly tell apart what could inflict a mortal wound or otherwise provoke death: claws (Wolf attack), blood loss ([Vampire](#vampire) attack), poison ([Witch](#witch) attack), strangling ([Zombie](#zombie) attack), shooting ([Revenger](#revenger)), burning ([Devil](#devil)), devouring ([Chupacabra](#chupacabra)) or stabbing (other human-based attack) - of any deceased character. Once the kill occurs, you immediately make the determination. This ability can give the village a tremendous amount of information - provided you remain alive, of course! 
+
+**Note** that the [Lunatic's](#lunatic) night attack is seen by you as a Wolf attack, even though it was actually committed by a human.
+
+Your special power is PASSIVE and AUTOMATIC; as long as you live, the Moderator will inform all players of the cause of death of any deceased player.
 
 ## Campaigner
 * **TEAM:** Village
@@ -668,18 +680,6 @@ Choose 1, either: Learn two additional roles of random living players (so you wi
 
 You are a deeply caring individual on the village team. Each night, after all other night actions are resolved, you will be told who is dying that night. You
 will NOT be told their alignment or role. After being told this, you will have the option of dying in that person's place. That person will not be told you saved them, and they will not even know they were on death's door. Your cause of death will be identical to the person you saved. This death is viewed as a suicide and cannot be prevented by any means. A role blocker can stop you from sacrificing yourself. You will be informed you were blocked.
-
-## Scientist
-* **TEAM:** Village
-* **RACE:** Human
-* **ALIGNMENT:** Good
-* **NIGHT ACTIVITY:** No
-
-An expert in forensics, you have the ability to determine the cause of death - Wolf attack, blood loss ([Vampire](#vampire) attack), poison ([Witch](#witch) attack), strangling ([Zombie](#zombie) attack), shooting ([Revenger](#revenger)), burning ([Devil](#devil)), devouring ([Chupacabra](#chupacabra)) or stabbing (other human-based attack) - of any deceased character. Once the kill occurs, you immediately make the determination. This ability can give the village a tremendous amount of information - provided you remain alive, of course! 
-
-**Note** that the [Lunatic's](#lunatic) night attack is seen by you as a Wolf attack, even though it was actually committed by a human.
-
-Your special power is PASSIVE and AUTOMATIC; as long as you live, the Moderator will inform all players of the cause of death of any deceased player.
 
 ## Sensor
 * **TEAM:** Village
