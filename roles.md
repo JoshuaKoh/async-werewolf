@@ -507,7 +507,8 @@ In addition, once per game during the day, you may choose to learn the role of y
 * **NIGHT ACTIVITY:** Yes
 * **ACTIVE NIGHT 0:** No
 
-You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen by the [Seer](#seer) as a wolf in an initial scanning, or by a crystal ball. Subsequent scans will correctly reveal that you are in fact NOT a wolf. If you are scanned by more than one source in the same phase, all of those scans will be incorrect, but subsequent scans will be correct. 
+You are an ordinary member of the village who has been cursed by fate. Because of this, you will be (incorrectly) seen as a wolf in the first-ever scanning by the [Seer](#seer) or by a [Crystal Ball](#crystal-ball). Subsequent scans, by whatever source, will correctly reveal that you are in fact NOT a wolf. If you are scanned by more than one source in the same phase, all of those scans will be incorrect, but subsequent scans will be correct.  In other words, the only way for two independent scans to produce an incorrect result is for them to happen on the same night.
+
 In a game with items, you may begin with an item. 
 
 
