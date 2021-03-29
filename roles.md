@@ -260,7 +260,7 @@ Each night, you may choose a target to scan like a [Seer](#seer). However, you w
 * **NIGHT ACTIVITY:** Yes
 * **ACTIVE NIGHT 0:** No
 
-Each night, you may choose a player, and ALL attempts to kill that player (except for suicide - see below) will fail.
+Each night, you may choose a player, and ALL attempts to kill that player (except for suicide - see below) will fail. However, you will not be told by the moderator whether an attack against the player you protect actually took place or not.
 
 Suicide can be committed by several roles, most notably [Martyr](#martyr), [Disciple](#disciple), [Siblings](#siblings).
 
@@ -268,7 +268,7 @@ In addition:
 * You can't protect the same player on consecutive nights.
 * You can't elect to protect yourself.
 * You **CAN** elect not to protect anyone at all.
-* There are other types of Bodyguard (see below) that have faulty powers
+* There are other types of Bodyguard (see below) that have faulty powers (except the [Veteran Bodyguard](#veteran-bodyguard) who is in fact a better bodyguard)
 
 ### Amateur Bodyguard
 * **TEAM:** Village
@@ -296,6 +296,15 @@ You may protect a player each night (like the [Bodyguard](#bodyguard)) but if th
 * **ACTIVE NIGHT 0:** No
 
 Each night, you may choose a player to protect, like the [Bodyguard](#bodyguard). However, the "protected" player is also prevented from taking any nighttime action (like the Debaucher). You think that you are a regular Bodyguard.
+
+### Veteran Bodyguard
+* **TEAM:** Village
+* **RACE:** Human
+* **ALIGNMENT:** Good
+* **NIGHT ACTIVITY:** Yes
+* **ACTIVE NIGHT 0:** No
+
+You are have been many times on the battlefield, and have witnessed all sort of killings.  This gives you the ability to distinguish fighting styles and detect ambushes, even in a dark night.  Each night, you may choose a player to protect, like the [Bodyguard](#bodyguard). In addition to protecting them, you will be informed by the Moderator if there were any attacks to the player you're protecting, and by who (only the race is revealed, not the identity of the attacking players).
 
 ## Alchemist
 * **TEAM:** Village
