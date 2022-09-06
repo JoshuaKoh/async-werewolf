@@ -426,7 +426,6 @@ It is very possible that the best thing you can do for your team is make yoursel
 Each night, you may select a player that you think will not survive the night. If you are right, your next vote during the day will count double.
 
 
-
 ## Gossip
 * **TEAM:** Village
 * **SPECIES:** Human
@@ -443,7 +442,7 @@ On the third night, you will tell the Moderator the names of two living players.
 * **NIGHT ACTIVITY:** Yes
 * **ACTIVE NIGHT 0:** No
 
-Each night, you may choose a player. The next morning, the entire town will be notified that that player's house has been defaced. You may choose yourself. 
+Each night, you may choose a player. The next morning, the entire town will be notified that that player's house has been defaced. You may choose yourself. This role is just dumb fun for the most part... although watch out for the [Butcher](#butcher).
 
 
 ## Grave Digger
